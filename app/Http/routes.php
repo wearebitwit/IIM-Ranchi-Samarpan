@@ -26,6 +26,15 @@ Route::get('/', function () {
 |
 */
 
-Route::group(['middleware' => ['web']], function () {
-    //
+Route::group(['middleware' => []], function () {
+    Route::get('/events', 'EventController@index');
+    Route::get('/events/create', 'EventController@create');
+    Route::get('/events/edit/{id}', 'EventController@edit');
+
+    Route::post('/events', 'EventController@store');
+    Route::post('/events/{id}', 'EventController@update');
+    Route::post('/events/reorder/{id}', 'EventController@reorder');
+    
+    Route::delete('/events/{id}', 'EventController@destroy');
+        
 });

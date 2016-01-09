@@ -14,6 +14,8 @@ return [
     */
 
     'env' => env('APP_ENV', 'production'),
+    'admin_user' => env('ADMIN_USER'),
+    'admin_pass' => env('ADMIN_PASSWORD'),
 
     /*
     |--------------------------------------------------------------------------

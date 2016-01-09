@@ -34,7 +34,7 @@ class GarageController extends Controller
       	$username = $request->input('username');
       	$password = $request->input('password');
 
-      	if(env('username') === $username && env('password') === $password){
+      	if(config('app.admin_user') == $username && config('app.admin_pass') == $password){
       		$request->session()->put('user', 'loggedIn');
       		return ['error' => false];
       	}else {

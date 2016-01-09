@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
+use App\Event;
+use Illuminate\Support\Facades\DB;
+
 class GarageController extends Controller
 {
     /**
@@ -17,7 +20,8 @@ class GarageController extends Controller
     public function index(Request $request)
     {
         if ($request->session()->has('user')) {
-         		return view('dashboard.home');
+            $data = Event::select(DB::raw('name,count(name) as count'))->groupBy('name')->get();
+         		return view('dashboard.home',['data' => $data]);
         }
         
         return view('auth.login');
@@ -40,6 +44,23 @@ class GarageController extends Controller
       	}else {
       		return ['error' => true];
       	}	
+    }
+
+    /**
+     * Display the specified registrations for a event.
+     *
+     * @param  string  $name
+     * @return \Illuminate\Http\Response
+     */
+    public function show(Request $request, $name)
+    {
+      if ($request->session()->has('user')) {
+          $signups =  Event::where('name',$name)->get()->toArray();
+          $keys = array_keys(json_decode($signups[0]['data'], true));
+          return view('dashboard.list', ['list' => $signups,'keys' => $keys]);
+      }
+      
+      return view('auth.login');
     }
 
     /**

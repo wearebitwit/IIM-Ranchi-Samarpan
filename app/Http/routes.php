@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('site.home');
 });
 
 /*
@@ -28,6 +28,9 @@ Route::get('/', function () {
 
 Route::group(['middleware' => ['web']], function () {
     Route::post('/events', 'EventController@store');
+    Route::get('/events', function () {
+	    return view('site.events');
+    });
 		
 		// Authentication routes...
 		Route::get('/garage', 'GarageController@index');

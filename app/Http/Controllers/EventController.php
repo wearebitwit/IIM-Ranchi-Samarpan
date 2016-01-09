@@ -52,16 +52,6 @@ class EventController extends Controller
             return ['error' => true];
     }
 
-    /**
-     * Display the specified registrations for a event.
-     *
-     * @param  string  $name
-     * @return \Illuminate\Http\Response
-     */
-    public function show($name)
-    {
-        return Event::where('name',$name)->all();
-    }
 
     /**
      * Show the form for editing the specified resource.

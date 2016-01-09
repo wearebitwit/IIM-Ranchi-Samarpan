@@ -27,15 +27,14 @@ Route::get('/', function () {
 */
 
 Route::group(['middleware' => ['web']], function () {
-    Route::get('/events', 'EventController@index');
-    Route::get('/events/{name}', 'EventController@show');
-
     Route::post('/events', 'EventController@store');
-    Route::delete('/events/{name}', 'EventController@destroy');     
 		
 		// Authentication routes...
 		Route::get('/garage', 'GarageController@index');
 		Route::post('/garage/auth', 'GarageController@auth');
 		Route::get('/logout', 'GarageController@logout');
+
+		//Signup routes
+		Route::get('/garage/{name}', 'GarageController@show');
 });
 

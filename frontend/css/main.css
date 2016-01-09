@@ -757,6 +757,23 @@ hr.header{
   right: 10%
 }
 
+#team p{
+    text-align: left;
+}
+.centered{
+    text-align: center !important;
+    }
+
+#team .row{
+    margin-top: 2%;
+}
+
+#sponsors{
+    background-image: url(../images/sponsor-bg.jpg);
+}
+#sponsors h2{
+    color: white;
+}
 
 /*************************
 ******Map CSS****

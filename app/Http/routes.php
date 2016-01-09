@@ -31,6 +31,13 @@ Route::group(['middleware' => []], function () {
     Route::get('/events/{name}', 'EventController@show');
 
     Route::post('/events', 'EventController@store');
-    Route::delete('/events/{name}', 'EventController@destroy');
-        
+    Route::delete('/events/{name}', 'EventController@destroy');     
 });
+
+// Authentication routes...
+Route::get('/garage', 'Auth\AuthController@getLogin');
+Route::post('auth/login', 'Auth\AuthController@postLogin');
+Route::get('auth/logout', 'Auth\AuthController@getLogout');
+
+// Registration routes...
+Route::post('auth/register', 'Auth\AuthController@postRegister');

@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Garage | IIM Samarpan</title>
+  <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,300|RobotoDraft:400,300">
   <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <style type="text/css">

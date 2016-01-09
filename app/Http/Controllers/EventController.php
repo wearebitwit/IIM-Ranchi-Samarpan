@@ -53,14 +53,14 @@ class EventController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Display the specified registrations for a event.
      *
-     * @param  int  $id
+     * @param  string  $name
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($name)
     {
-        return Event::find($id);
+        return Event::where('name',$name)->all();
     }
 
     /**
@@ -75,21 +75,16 @@ class EventController extends Controller
     }
 
     /**
-     * Remove the specified resource from storage.
+     * Remove the specified event from database.
      *
-     * @param  int  $id
+     * @param  string  $name
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy($name)
     {
-        $event = Event::find($id);
-        $max = Event::max('index');
-        
-        $diff = $max - $event->index;
-        
-        Event::reorder($id, $event->index, $diff);
-        
-        if(Event::destroy($id))
+        $success = Event::where('name', $name)->delete();
+                        
+        if($success)
             response()->json(['error' => false]);
         else
             response()->json(['error' => true]);       

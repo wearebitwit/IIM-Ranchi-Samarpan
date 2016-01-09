@@ -46,10 +46,10 @@ class EventController extends Controller
         if($request->has('data'))
             $event->data = json_encode($request->input('data')); 
 
-        if($event->insert())
-            response()->json(['erroxr' => false]);
+        if($event->save())
+            response()->json(['error' => false]);
         else
-            response()->json(['errxor' => true]);
+            response()->json(['error' => true]);
     }
 
     /**
@@ -72,52 +72,6 @@ class EventController extends Controller
     public function edit($id)
     {
         //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, $id)
-    {
-        $event = Event::find($id);
-
-        if($request->has('name'))
-            $event->name = $request->input('name');
-
-        if($request->has('data'))
-            $event->data = $request->input('data');
-            
-        if($event->save())
-            response()->json(['error' => false]);
-        else
-            response()->json(['error' => true]);
-    }
-
-    /**
-     * Reorder the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function reorder(Request $request, $id)
-    {
-        $event = Event::find($id);
-
-        if($request->has('index'))
-            $prevIndex = $request->input('index');
-
-        if($request->has('diff'))
-            $diff = $request->input('diff');
-            
-        if(Event::reorder($id, $prevIndex, $diff))
-            response()->json(['error' => false]);
-        else
-            response()->json(['error' => true]);
     }
 
     /**

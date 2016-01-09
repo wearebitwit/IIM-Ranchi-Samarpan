@@ -47,9 +47,9 @@ class EventController extends Controller
             $event->data = json_encode($request->input('data')); 
 
         if($event->save())
-            response()->json(['error' => false]);
+            return ['error' => false];
         else
-            response()->json(['error' => true]);
+            return ['error' => true];
     }
 
     /**
@@ -85,8 +85,8 @@ class EventController extends Controller
         $success = Event::where('name', $name)->delete();
                         
         if($success)
-            response()->json(['error' => false]);
+            return ['error' => false];
         else
-            response()->json(['error' => true]);       
+            return ['error' => true];       
     }
 }

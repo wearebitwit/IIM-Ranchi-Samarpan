@@ -136,6 +136,28 @@ h2 {
   color: #16728f
 }
 
+#sub-navigation {
+  background-color: transparent;
+    padding:0 95px 0 0;
+  opacity: .9
+}
+
+#sub-navigation li a {
+  padding: 5px 21px;
+  font-size: 20px;
+  color: #3b5997;
+  text-transform: uppercase;
+  font-family: 'Yanone Kaffeesatz', 'sans-serif';
+  font-weight: 300;
+}
+
+#sub-navigation li a:hover, 
+#sub-navigation li a:focus,  
+#sub-navigation .active a {
+  background-color: #fff;
+  color: #16728f
+}
+
 
 .fixed-menu {
   background-color: #1B7B98;
@@ -171,7 +193,23 @@ h2 {
   display: none;
 }
 
+.fixed-menu .sub-nav{
+    padding-right: 0!important;
+}
 
+.fixed-menu .sub-nav li a{
+    color: white !important;
+    border-top: 1px solid white;
+}
+
+.fixed-menu .sub-nav li a:hover,.fixed-menu .sub-nav li a:active,.fixed-menu .sub-nav .active a{
+    background: white !important;
+    color: #3b5997 !important;
+}
+
+.speaker{
+    margin-top: 3%;
+}
 
 /*************************
 *******Home CSS******
@@ -391,6 +429,10 @@ h2 {
  /*************************
 *******Event CSS******
 **************************/
+#sub-navigation{
+    background: transparent;
+}
+
 #event {
   background-color: #33888F;
   background-image: url("../images/performar-bg.jpg");

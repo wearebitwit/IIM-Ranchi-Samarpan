@@ -26,18 +26,16 @@ Route::get('/', function () {
 |
 */
 
-Route::group(['middleware' => []], function () {
+Route::group(['middleware' => ['web']], function () {
     Route::get('/events', 'EventController@index');
     Route::get('/events/{name}', 'EventController@show');
 
     Route::post('/events', 'EventController@store');
     Route::delete('/events/{name}', 'EventController@destroy');     
+		
+		// Authentication routes...
+		Route::get('/garage', 'GarageController@index');
+		Route::post('/garage/auth', 'GarageController@auth');
+		Route::get('/logout', 'GarageController@logout');
 });
 
-// Authentication routes...
-Route::get('/garage', 'Auth\AuthController@getLogin');
-Route::post('auth/login', 'Auth\AuthController@postLogin');
-Route::get('auth/logout', 'Auth\AuthController@getLogout');
-
-// Registration routes...
-Route::post('auth/register', 'Auth\AuthController@postRegister');

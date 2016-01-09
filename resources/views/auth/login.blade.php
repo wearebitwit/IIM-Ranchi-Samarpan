@@ -415,11 +415,17 @@
       display: none;
     }
 
-    .span-error {
-      color: orange;
-      font-size: 14px;
+    .error-span {
+      color: red;
+      font-size: 16px;
+      text-align: center;
+      position: relative;
+      top: 20px; 
     }
 
+    .err-box{
+      margin: 30px auto;
+    }
     /* Keyframes */
     @-webkit-keyframes buttonFadeInUp {
       0% {
@@ -450,8 +456,8 @@
       <form id="login-form">
         <div class="input-container">
           {!! csrf_field() !!}
-          <input type="email" id="Username" name="email" required="required"/>
-          <label for="Username">Email</label>
+          <input type="text" id="Username" name="username" required="required"/>
+          <label for="Username">Username</label>
           <div class="bar"></div>
         </div>
         <div class="input-container">
@@ -464,9 +470,11 @@
         </div>
 
         <div class="button-container">
-          <button type="submit"><span>Go</span></button>
+          <button type="button" id="login-button"><span>Go</span></button>
+          <br>
+          <span class="error-span"></span>
         </div>
-        <span class="error-span"></span>
+        
       </form>
     </div>
     <div class="card alt">
@@ -500,14 +508,16 @@
   </script>
   <script type="text/javascript">
   $(document).ready(function () {
-    var error = $('error-span');
-    $('#login-form')
-      .submit(function () {
+    var spanError = $('.error-span');
+    $('#login-button')
+      .click(function () {
         event.preventDefault();
-        $.post('/garage/auth', $('login-form').serialize(), function (res) {
-          if (res.err){
-            error.show();
-            error.text('Wrong Credentials!! Retry');
+        spanError.html('');
+
+        $.post('/garage/auth', $('#login-form').serialize(), function (res) {
+          if (res.error){
+            spanError.show();
+            spanError.html('Wrong Credentials!! Retry');
           }
           else {
             window.location.reload(true);  

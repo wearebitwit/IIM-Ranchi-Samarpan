@@ -9,7 +9,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
-<link href="css/animate.css" rel="stylesheet">	
+<link href="css/animate.css" rel="stylesheet">  
 <link href="css/responsive.css" rel="stylesheet">
 
 <!--[if lt IE 9]>
@@ -24,7 +24,7 @@
 </head><!--/head-->
 
 <body>
-<header id="header" role="banner">		
+<header id="header" role="banner">      
 <div class="main-nav">
 <div class="container">
 <div class="header-top">
@@ -35,7 +35,7 @@
 <a href="#"><i class="fa fa-youtube"></i></a>
 </div>
 </div>     
-<div class="row">	        		
+<div class="row">                   
 <div class="navbar-header">
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 <span class="sr-only">Toggle navigation</span>
@@ -49,19 +49,18 @@
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">                 
-    <li class="ext"><a href="./../#home">Home</a></li>
-    <li class="ext"><a href="./../#explore">Explore</a></li>                         
-    <li class="ext"><a href="./../#event">Event</a></li>
-    <li class="ext"><a href="./../#about">About</a></li>                     
-    <li class="ext"><a href="./../#media">Media</a></li>
-    <li class="ext"><a class="" href="./../#initiatives" >Initiatives so far</a></li>
-    <li class="ext"><a class="" href="http://blog.iimsamarpan.com">Blog</a></li>
-    <li class="ext"><a href="./../#contact">Contact</a></li>       
+<li class="ext"><a href="../#home">Home</a></li>
+<li class="ext"><a href="../#explore">Explore</a></li>                         
+<li class="ext"><a href="../#event">Event</a></li>
+<li class="ext"><a href="../#about">About</a></li>                     
+<li class="ext"><a href="../#media">Media</a></li>
+<li class="ext"><a href="../#initiatives" >Initiatives so far</a></li>
+<li class="ext"><a href="../#contact">Contact</a></li>       
 </ul>
 </div>
 </div>
    
-<div class="row">	        		
+<div class="row">                   
 <div class="navbar-header">
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 <span class="sr-only">Toggle navigation</span>
@@ -103,7 +102,7 @@
 
 <section id="about-event">
 <div class="container">
-<div class="row">		
+<div class="row">       
 <div class="col-sm-6">
 <h2>About Radix</h2>
    <p>
@@ -124,7 +123,7 @@
         <li>Sustainable Business through Social Entrepreneurship: Sometimes sustainable business is manifested in the activities of startups and small businesses that pursue double and triple bottom lines</li> 
     </ul>
     <p><strong>Applied Engineering Management </strong>is the managing, implementing and directing of engineering technology from the point of inception by the research department to the finished product. </p>
-</div>	
+</div>  
 
 <div class="col-sm-6">
    <h2>Speakers</h2>
@@ -155,9 +154,6 @@
 </div>
 
 </div>
-<div class="cart">
-<a href="#"><i class="fa fa-shopping-cart"></i> <span>Register here</span></a>
-</div>
 </div>
 </section><!--/#explore-->
 
@@ -166,26 +162,34 @@
 <h2>Competitions</h2>
 <div class="container">
 <div class="row competition">
-<!--
-    <div class="col-md-4">
-        <h3>Case Study Competition</h3>
-        <p>Yuwa & Lenovo<br>
-        A Lenovo’s Case Study on Yuwa’s ‘Pitch To Her Campaign’, that includes corporate sustainability and innovation; will be used for the case study competition. </p>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register1">
-            <div class="well">
-            </div>
-        </div>
-
-    </div>
--->
-    <div class="col-md-4">
-        <h3>Applied Engineering Challenge </h3>
+    <div class="col-md-12">
+        <h2>Applied Engineering Challenge </h2>
         <p>WitWorks (#DronesForGood, #ISupportMakeInIndia)<br>
-            It will focus on giving the student design teams an opportunity to design and implement technical solutions to tackle issues like sustainability, education, health care, national security, etc., of the country. 
+            An exhibition-cum-competition wherein the participating teams will show their Drones which could help India in tackling its sustainability issues.
         </p>
+        <div class="col-md-3">
+            <h3>Timeline</h3>
+            <p>Last Date of registration and submission of entries: 25th January 2016<br>
+               Deadline extended: NO!<br>
+            Declare Results – final teams for exhibition-cum-competition: 28th January 2016</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Rules</h3>
+            <p>1) Team Size: 2-4 members<br>
+                2) The team members have to be from the same college/organisation<br>
+                3) Details required for Submission:Coming Soon…</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Prizes</h3>
+            <p>Winner: Rs. 30,000/- and a live Project with WitWorks (link to company’s website<br>
+                1st Runner-Up: Rs. 20,000/-<br>
+                2nd Runner-Up: Rs. 10,000/-</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Judges</h3>
+            <p>WitWorks</p>
+        </div>
+        <div class="clearfix"></div>
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -194,6 +198,7 @@
 
                 <form name="drone">
                     <p>Team Competition: 2-4 members</p>
+                <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team Name*</label>
                         <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
@@ -218,9 +223,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
-
-                    <br>
-
+                    
+                    </div>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 2 Name*</label>
                         <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
@@ -241,9 +246,10 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
+                   
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 3 Name</label>
                         <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
@@ -265,7 +271,9 @@
                         <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
                     </div>
 
-                    <br>
+                    </div>
+                    
+                    <div class="col-md-3">
 
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 4 Name</label>
@@ -287,18 +295,53 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
+                    <div class="clearfix"></div>
 
-                    <button type="submit" class="btn btn-default">Submit</button>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                 </form>
             </div>
         </div>
 
     </div>
-    <div class="col-md-4">
-        <h3>Article Writing Competition
-        </h3>
-        <p>‘Strategic CSR for manufacturing industry’<br>
-      </p>
+    </div>    
+    <hr class="divider">
+    
+<div class="row competition">    
+    <div class="col-md-12">
+        <h2>Article Writing Competition
+        </h2>
+        <p>Topic: Strategic CSR for manufacturing industry
+
+            Language: English, Hindi, Spanish, French<br>
+        </p>  
+        <div class="col-md-3">
+        <h3>Timeline</h3>
+                <p>
+
+                Last Date of Submission: 24th January 2016
+<br>
+                Declare Results: 30th January 2016
+<br>
+                **PUBLSHED IN MAGAZINE**</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Rules</h3>
+            <p>Individual entry</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Prizes</h3>
+            <p>Winner: Rs. 5,000/-<br>
+
+                1st Runner-Up: Rs. 3,000/-<br>
+
+                2nd Runner-Up: Rs. 2,000/-</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Judges</h3>
+            <p>Coming Soon</p>
+        </div>
+        <div class="clearfix"></div>
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register2" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -306,6 +349,7 @@
             <div class="well">
                 <form name="article">
                     <p> Individual or Team Competition: 1-3 members</p>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team Name*</label>
                         <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
@@ -330,9 +374,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 2 Name</label>
                         <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name ">
@@ -353,9 +397,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
                     </div>
-
-                    <br>
-
+                    </div>
+                    
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 3 Name</label>
                         <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
@@ -376,20 +420,54 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="clearfix"></div>
                     <button type="submit" class="btn btn-default">Submit</button>
+                    <span class="error-text">Just to inform any update !</span>
                 </form>
             </div>
         </div>
 
     </div>
-    <div class="col-md-4">
-        <h3>Documentary Making Competition
-        </h3>
-        <p><br>
+    </div>
+    <hr class="divider">
+
+<div class="row competition"> 
+    <div class="col-md-12">
+        <h2>Documentary Making Competition
+        </h2>
+        <p>- on Accessible India campaign (DIVYANG)<br>
       </p>
+        <div class="col-md-3">
+            <h3>Timeline</h3>
+            <p>Last date of registration and submission: 26th January 2016
+<br>
+                Deadline extension: NO!
+<br>
+                Declare Results – WINNER: 30th January 2016</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Rules</h3>
+            <p>Team Size: 1-3
+
+     <br>           The team members have to be from the same college/organisation
+<br>
+                Submit a Title for the film and a100word write-up about the film.</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Prizes</h3>
+            <p>Winner: Rs. 10,000/-<br>
+
+                1st Runner-Up: Rs. 7,000/-<br>
+
+                2nd Runner-Up: Rs. 5,000/-</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Judges</h3>
+            <p>Coming Soon</p>
+        </div>
+        <div class="clearfix"></div>
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register3" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -397,6 +475,7 @@
             <div class="well">
                 <form name="documentary">
                     <p>Team Competition: 2-4 members</p>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team Name*</label>
                         <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
@@ -421,9 +500,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 2 Name*</label>
                         <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
@@ -444,9 +523,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 3 Name</label>
                         <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
@@ -467,9 +546,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 4 Name</label>
                         <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
@@ -490,21 +569,127 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <button type="submit" class="btn btn-default">Submit</button>
+                   <div class="clearfix"></div>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                 </form>
             </div>
         </div>
 
     </div>
 </div>
-<hr>
+    <hr class="divider">
+    
 <div class="row competition">
-    <div class="col-md-4">
-        <h3>Battle Bots
-        </h3>
+    <div class="col-md-12">
+        <h2>Battle Bots
+        </h2>
         <p>#BattleGroundOfRobots<br>
-            One on one tournament between student designed robots</p>
+            Robot Wars<br>
+
+            Battle Ground of Robots, wherein the participating teams will enter into a battle between their designed robots. One on one tournament between students designed robots</p>
+        <div class="col-md-3">
+            <h3>Timeline</h3>
+            <p>Last Date for Registration:28 january 2016<br>
+                Deadline extended:
+<br>            Last date for confirmation through mail (with proof of ticket): 1 january 2016</p>
+        </div>
+        <div class="col-md-9">
+            <h3>Rules</h3>
+            <p>Team Size: 2-4 members<br>
+
+                The team members have to be from the same or different institution<br>
+
+                General Rules: 
+                <br>
+                The competition will be played on a knock-out basis consisting of 2-3 players at a time . <br>
+
+                The maximum duration of each round will be 5 minutes. Any team that is not ready at the specified will be disqualified from the competition automatically. 
+                <br>
+                1. The machine would be checked for its safety before the competition and would be discarded if found unsafe for other participants and spectators. <br>
+
+                2. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered 
+                <br>
+                3. Violation of any the above rules will lead to disqualification. <br>
+
+                4. Judges' decision shall be treated as final and binding on all. <br>
+
+                Criteria for Triumph: <br>
+
+                1. A robot is declared victorious if its opponent is immobilized or out of the arena. <br>
+
+                2. A robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. <br>
+
+                3. If both robots survive the five minutes at that point, the robot with the higher hit points <br>
+
+                4. The winner moves on, the loser is eliminated from the tournament. <br>
+
+                Safety Rules: <br>
+
+                1. Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing. <br>
+
+                2. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. <br>
+
+                3 . All weapons must have a safety cover on any sharp edges 
+                <br>
+                Specifications:<br> 
+
+                Problem statement: Design and construct a remote or wired controlled bot capable of fighting a one on one tournament. 
+                <br>
+                Dimensions and Fabrications: 
+
+                <br>• The bot should fit in a box of dimension 75cm x 75 cm x 75 cm (lxbxh) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint. 
+
+                <br> Weight of Robot: 50kg
+
+                <br> Mobility: All bots must have easily visible and controlled mobility in order to compete. Methods of  mobility include: <br>
+
+                • Rolling (wheels, tracks or the whole robot). <br>
+
+                • Jumping and hopping is not allowed. <br>
+
+                • Flying (using airfoil, helium balloons, ornithopters, etc.) is not allowed. <br>
+
+                Robot Control Requirements: <br>
+
+                • If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event. <br>
+
+                • If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. <br>
+
+                • Remote control systems from toys might be used. Remote control systems available in the market may also be used. <br>
+
+                Battery and Power : <br>
+
+                • The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). <br>
+
+                • Working voltages must not exceed 24V DC (mean voltage) at any point of time. <br>
+
+                • All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. <br>
+
+                • All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification. <br>
+
+                • Battery Eliminators are allowed and power source would be available at the venue for the eliminators. 
+                <br>
+                Motors: <br>
+
+                The robot should move as fast as possible around the arena with the help of motors. <br>
+
+                • DC motors and stepper motors (12V-24V) can be used as per the design of bots</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Prizes</h3>
+            <p>Winner: Rs. 30,000/-<br>
+
+                1st Runner-Up: Rs. 20,000/-<br>
+
+                2nd Runner-Up: Rs. 10,000/-</p>
+        </div>
+        <div class="col-md-3">
+            <h3>Judges</h3>
+            <p>WitWorks</p>
+        </div>   
+        <div class="clearfix"></div>
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register4" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -512,6 +697,7 @@
             <div class="well">
                 <form name="battlebots">
                     <p>Team Competition: 2-4 members</p>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team Name*</label>
                         <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
@@ -536,9 +722,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
-
-                    <br>
-
+                    </div>
+                    
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 2 Name*</label>
                         <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
@@ -559,9 +745,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 3 Name</label>
                         <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
@@ -582,9 +768,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 4 Name</label>
                         <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
@@ -605,17 +791,48 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <button type="submit" class="btn btn-default">Submit</button>
+                   <div class="clearfix"></div>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                 </form>
             </div>
         </div>
 
     </div>
-    <div class="col-md-4">
-        <h3>#BeYourOwnBoss
-            </h3>
-        <p> Entrepreneurship competition involving inception of a small enterprise and sensitization about CSR.  </p>
+    </div>
+    <hr class="divider">
+  
+<div class="row competition">  
+<div class="col-md-12">
+        <h2>#BeYourOwnBoss
+            </h2>
+    <p> Entrepreneurship competition involving inception of a small enterprise and CSR Participants will get space to put up their stall (food, games, handicrafts, etc.) at a fixed-price of Rs.100 (which will be used for skill development workshops of ‘Sahayak’). 2% of the profit generated by participants will be used for ‘Sahayak-Vikas’ initiave of Smarpan Club (CSR). The top 3 business models will be rewarded. </p>
+    <div class="col-md-3">
+        <h3>Timeline</h3>
+        <p>Last date for registration: 1st February<br>
+
+            Deadline extended: NO!</p>
+    </div>
+    <div class="col-md-3">
+        <h3>Rules</h3>
+        <p>Team Size: 2-4
+<br>
+            The team members have to be from the same college/organisation</p>
+    </div>
+    <div class="col-md-3">
+        <h3>Prizes</h3>
+        <p>Winner: Rs. 7,000/-<br>
+
+            1st Runner-Up: Rs. 5,000/-<br>
+
+            2nd Runner-Up: Rs. 2,000/-</p>
+    </div>
+    <div class="col-md-3">
+        <h3>Judges</h3>
+    </div>   
+    
+    <div class="clearfix"></div>        
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register5" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -623,6 +840,7 @@
             <div class="well">
                 <form name="boss">
                     <p>Team Competition: 2-4 members</p>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team Name*</label>
                         <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
@@ -647,9 +865,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
-
-                    <br>
-
+                    </div>
+                    
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 2 Name*</label>
                         <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
@@ -670,9 +888,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 3 Name</label>
                         <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
@@ -693,9 +911,9 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <br>
-
+                   <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only">Team member 4 Name</label>
                         <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
@@ -716,17 +934,57 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
                     </div>
+                    </div>
 
-                    <button type="submit" class="btn btn-default">Submit</button>
+                   <div class="clearfix"></div>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                 </form>
             </div>
         </div>
 
     </div>
-    <div class="col-md-4">
-        <h3>Photography Competition
-            </h3>
-        <p> </p>
+</div>  
+    <hr class="divider">
+    
+<div class="row competition"> 
+        <div class="col-md-12">
+        <h2>Photography Competition
+            </h2>
+            <p> Theme: Disappearing professions and career options for these 
+
+                professionals<br>
+
+                Published: Samarpan Magazine<br>
+
+                Exhibition: During Lunch and Tea-breaks @ Radix (link)
+</p> 
+            <div class="col-md-3">
+            <h3>Timeline</h3>
+                <p>Last date of registration & submission: 26th January 2016
+<br>
+                    Deadline extension: NO!
+<br>
+                    Declare Results: 30th January 2016</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Rules</h3>
+                <p>Team Size: 1-3<br>
+
+                    The team members have to be from the same college/organisation<br>
+
+                    Submit a 50-100 words write up explaining the 2 images.</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Prizes</h3>
+                <p>Winner: Rs. 10,000/-
+<br>            1st Runner-Up: Rs. 7,000/-
+    <br>            2nd Runner-Up: Rs. 5,000/-</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Judges</h3>
+                <p>Coming Soon…</p>
+            </div>   
+<div class="clearfix"></div>
         <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register6" aria-expanded="false" aria-controls="collapseExample">
            Register here
         </a>
@@ -734,6 +992,7 @@
             <div class="well">
                 <form name="photography">
                     <p>Individual Competition</p>
+                    <div class="col-md-3">
                     <div class="form-group">
                         <label for="" class="sr-only"> Name (Team Captain)*</label>
                         <input type="text" class="form-control" name="player1" placeholder="Name*" required>
@@ -754,14 +1013,17 @@
                         <label for="" class="sr-only">College / University Roll No</label>
                         <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                     </div>
-
+                    </div>
+                    <div class="clearfix"></div>
                     <button type="submit" class="btn btn-default">Submit</button>
+                    
                 </form>
             </div>
         </div>
 
+        </div>
     </div>
-</div>
+    <hr class="divider">
 </div>
 </section><!--/#media-feed-->
 
@@ -786,13 +1048,13 @@
 
     <section id="about-event">
         <div class="container">
-               <div class="row">		
+               <div class="row">        
                 <div class="col-sm-6">
                     <h2>About Funathon and Walkathon</h2>
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                     </p>
-                </div>	
+                </div>  
 
                 <div class="col-sm-6">
                     <h2>Athletes / Sportsperson</h2>
@@ -824,9 +1086,6 @@
 
             </div>
             
-            <div class="cart">
-                <a href="#"><i class="fa fa-shopping-cart"></i> <span>Register here</span></a>
-            </div>
         </div>
     </section><!--/#explore-->
 
@@ -835,14 +1094,29 @@
         <h2>Competitions</h2>
         <div class="container">
             <div class="row competition">
-                <div class="col-md-4 col-md-offset-2">
-                    <h3>Fun-a-thon</h3>
+                <div class="col-md-12">
+                    <h2>Fun-a-thon</h2>
                     <p>10 km <strong>run</strong> <br>
-                        Winner: Prizes worth Rs. 5,000<br>
+                      
+                    </p>
+
+                    <div class="col-md-3">
+                        <h3>Timeline</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Rules</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Prizes</h3> <p>Winner: Prizes worth Rs. 5,000<br>
                         1st Runner Up: Prizes worth Rs. 3,000<br>
                         2nd Runner Up: Prizes worth Rs. 1000<br>
-                        Participation Medal given to all participants
-                    </p>
+                        Participation Medal given to all participants</p>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Judges</h3>
+                    </div>
+
+                    <div class="clearfix"></div>
                     <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register7" aria-expanded="false" aria-controls="collapseExample">
                         Register here
                     </a>
@@ -851,6 +1125,7 @@
 
                             <form name="funathon">
                                 <p>Individual Competition</p>
+                                <div class="col-md-3">
                                 <div class="form-group">
                                     <label for="" class="sr-only"> Name*</label>
                                     <input type="text" class="form-control" name="player1" placeholder="Name*" required>
@@ -871,21 +1146,39 @@
                                     <label for="" class="sr-only">College / University Roll No</label>
                                     <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                                 </div>
+                                </div>
 
-                                <button type="submit" class="btn btn-default">Submit</button>
+                               <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                             </form>
                         </div>
                     </div>
 
                 </div>
-                <div class="col-md-4">
-                    <h3>Walk-a-thon</h3>
+            </div>
+               <hr class="divider">
+            <div class="row competition">
+                <div class="col-md-12">
+                    <h2>Walk-a-thon</h2>
                     <p>5 km <strong>walk</strong> <br>
-                        Winner: Prizes worth Rs. 5,000<br>
+                        </p>
+                    <div class="col-md-3">
+                        <h3>Timeline</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Rules</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Prizes</h3> <p>Winner: Prizes worth Rs. 5,000<br>
                         1st Runner Up: Prizes worth Rs. 3,000<br>
                         2nd Runner Up: Prizes worth Rs. 1000<br>
-                        Participation Medal given to all participants
-                    </p>
+                        Participation Medal given to all participants</p>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Judges</h3>
+                    </div>
+
+                    <div class="clearfix"></div>
                     <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register8" aria-expanded="false" aria-controls="collapseExample">
                         Register here
                     </a>
@@ -894,6 +1187,7 @@
 
                             <form name="walkathon">
                                 <p>Individual Competition</p>
+                                <div class="col-md-3">
                                 <div class="form-group">
                                     <label for="" class="sr-only"> Name*</label>
                                     <input type="text" class="form-control" name="player1" placeholder="Name*" required>
@@ -914,15 +1208,18 @@
                                     <label for="" class="sr-only">College / University Roll No</label>
                                     <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                                 </div>
+                                </div>
+                                
 
-                                <button type="submit" class="btn btn-default">Submit</button>
+                               <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
                             </form>
                         </div>
                     </div>
 
                 </div>
             </div>
-
+            <hr class="divider">
         </div>
     </section><!--/#media-feed-->
 
@@ -946,14 +1243,14 @@
 
     <section id="about-event">
         <div class="container">
-            <div class="row">		
+            <div class="row">       
                 <div class="col-md-12 col-sm-5">
                     <h2>Objectives</h2>
                     <p>
                         To create a platform for students of Yuwa and Fr. Agnel Balbhawan to showcase their talent to the world, especially to the corporates who fund their organisations through their CSR. These corporates shall be participating in Radix as Guest Speakers and case study competition.
 
                     </p>
-                </div>	
+                </div>  
             </div>
         </div>
     </section><!--/#explore-->
@@ -964,7 +1261,7 @@
         <div class="container">
             <div class="row competition">
                 <div class="col-md-4">
-                    <h3>Football Matches</h3>
+                    <h2>Football Matches</h2>
 
                     <p> <strong> (Girls)</strong> 
                         Yuwa Vs. Fr. Agnel Balbhawan
@@ -975,8 +1272,8 @@
 
                 </div>
                 <div class="col-md-4">
-                    <h3>Musical Skit performance
-                    </h3>
+                    <h2>Musical Skit performance
+                    </h2>
 
                     <p> by <strong>Yuwa</strong> (about their life and association with Yuwa)
 
@@ -984,8 +1281,8 @@
 
                 </div>
                 <div class="col-md-4">
-                    <h3>Musical Band performance
-                    </h3>
+                    <h2>Musical Band performance
+                    </h2>
 
                     <p> by <strong>- By Fr. Agnel Balbhawan
                         </strong>

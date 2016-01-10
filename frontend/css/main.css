@@ -565,7 +565,25 @@ hr.header{
     color: #3b5997;
     text-align: center;
 }
-/*************************
+.competition h2{
+    font-size: 1.8em;
+    font-weight: 500;
+    text-align: left !important;
+}
+.clearfix{
+    clear: both;
+}
+.competition p{
+}
+
+.error-text{
+    color: #a64030;
+    font-weight: 600;
+    margin-left: 1%;
+}
+
+/*********
+****************
 *******About CSS**********
 **************************/
 
@@ -616,6 +634,9 @@ hr.header{
   background-color: #126d55
 }
 
+hr.divider{
+    border: #3b5997 1px solid;
+}
 
 
 /*************************
@@ -640,7 +661,6 @@ hr.header{
 
 #media p{
     color: #3b5997;
-    padding: 5%;
 }
 
 .twit {

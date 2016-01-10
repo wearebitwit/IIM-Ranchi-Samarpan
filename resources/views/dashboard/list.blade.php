@@ -39,7 +39,7 @@
 <main>
 	<div class="table-responsive">
   <h2>
-  <a href="../">Go back</a> Or
+  <a href="../garage">Go back</a> Or
   <a id="exportExcel" href>Export to excel</a>
   </h2>
   <table class="table table-striped table-condensed">

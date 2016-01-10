@@ -298,7 +298,7 @@
                     </div>
                     <div class="clearfix"></div>
 
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                 </form>
             </div>
         </div>
@@ -424,7 +424,7 @@
 
                    <div class="clearfix"></div>
                     <button type="submit" class="btn btn-default">Submit</button>
-                    <span class="error-text">Just to inform any update !</span>
+                    <span class="error-text"></span>
                 </form>
             </div>
         </div>
@@ -572,7 +572,7 @@
                     </div>
 
                    <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                 </form>
             </div>
         </div>
@@ -794,7 +794,7 @@
                     </div>
 
                    <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                 </form>
             </div>
         </div>
@@ -937,7 +937,7 @@
                     </div>
 
                    <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                 </form>
             </div>
         </div>
@@ -1149,7 +1149,7 @@
                                 </div>
 
                                <div class="clearfix"></div>
-                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                             </form>
                         </div>
                     </div>
@@ -1212,7 +1212,7 @@
                                 
 
                                <div class="clearfix"></div>
-                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text">Just to inform any update !</span>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                             </form>
                         </div>
                     </div>

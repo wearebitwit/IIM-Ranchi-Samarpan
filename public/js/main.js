@@ -11,7 +11,10 @@ jQuery(function($) {'use strict',
 		});
 	
 	 function submitForm() {
-	 	var model = {};
+	 	var model = {
+	 		data: {},
+	 		name: ''
+	 	};
 	 	var inputs;
 	 	var spanError = $(this)
 	 		.children('.error-text');
@@ -24,7 +27,7 @@ jQuery(function($) {'use strict',
 
 	 	inputs
 	 		.each(function (index) {
-	 			model[this.name] = this.value;
+	 			model.data[this.name] = this.value;
 	 		})
 
 	 	$.post('/events', model, function (res) {

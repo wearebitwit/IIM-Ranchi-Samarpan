@@ -49,13 +49,14 @@
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">                 
-<li class="scroll"><a href="#">Home</a></li>
-<li class="scroll"><a href="#">Explore</a></li>                         
-<li class="scroll"><a href="#">Event</a></li>
-<li class="scroll"><a href="#">About</a></li>                     
-<li class="no-scroll"><a href="">Media</a></li>
-<li><a class="no-scroll" href="" >Initiatives so far</a></li>
-<li class="scroll"><a href="">Contact</a></li>       
+    <li class="ext"><a href="./../#home">Home</a></li>
+    <li class="ext"><a href="./../#explore">Explore</a></li>                         
+    <li class="ext"><a href="./../#event">Event</a></li>
+    <li class="ext"><a href="./../#about">About</a></li>                     
+    <li class="ext"><a href="./../#media">Media</a></li>
+    <li class="ext"><a class="" href="./../#initiatives" >Initiatives so far</a></li>
+    <li class="ext"><a class="" href="http://blog.iimsamarpan.com">Blog</a></li>
+    <li class="ext"><a href="./../#contact">Contact</a></li>       
 </ul>
 </div>
 </div>

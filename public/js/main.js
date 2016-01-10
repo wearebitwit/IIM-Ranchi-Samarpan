@@ -62,7 +62,7 @@ jQuery(function($) {'use strict',
 	    scrollSpeed: 900,
 	    scrollOffset: 0,
 	    scrollThreshold: 0.3,
-	    filter: ':not(.no-scroll)'
+	    filter: '.ext'
 	});
 
 });

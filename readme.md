@@ -1,5 +1,5 @@
-## Minimal app for event registration
+## Source of IIM Ranchi's Samarapan Club [IIMsamarpan](http://www.iimsamarpan.com)
 
-Simple app for event registration used for [IIMsamarpan](http://www.iimsamarpan.com)
+Samarpan is the Corporate Social Responsibility club of IIM Ranchi. “Samarpan” is homage to all those who have demonstrated commendable spirit and courage to take the cause of mankind forward and a show of solidarity to those who have been victimized or have suffered due to the sharp divide that exists in our society.
 
 

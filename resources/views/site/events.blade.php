@@ -1024,6 +1024,192 @@
         </div>
     </div>
     <hr class="divider">
+    
+
+    <div class="row competition">
+        <div class="col-md-12">
+            <h2>P.I.G : - Paint It Green</h2>
+            <p>P.I.G is a pan-India ‘Socially Responsible Business Plan Competition’ organized by Samarpan – the CSR club of IIM Ranchi. P.I.G is a platform for all aspiring social entrepreneurs who wish to help India in in its ‘Make In India’ and ‘Make For India’ campaign.<br>
+                Theme: - Clean Energy / Green Energy / Renewable Energy / Smart Energy ‘India has committed for the Paris climate change agreement, that 40 per cent of its total power capacity by 2030 will be based on renewable sources.’
+- According to a ‘Business Standard’ report
+
+                The rising fuel prices, drastic climate changes, threat to energy security and the need to manage economic growth, have led India to explore the renewable energy avenues with more diligence, as renewable energy offers critical solution to India’s ever increasing energy demand.<br>
+
+                Thus, this season of P.I.G encourages budding social entrepreneurs to explore the possibilities of Clean, Green and Smart Energy. <br>Let us make our contribution towards making India energy sufficient
+            </p>
+            <div class="col-md-3">
+                <h3>Timeline</h3>
+                <p>Last Date of registration and submission of entries: 25th January 2016<br>
+                    Deadline extended: NO!<br>
+                    Declare Results – final teams for exhibition-cum-competition: 28th January 2016</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Rules</h3>
+                <p>Team Size: 2-4 members<br>
+                    The team members have to be from the same institute.
+                    Only one entry is allowed per team.<br>
+                    A participant can be a part of only one team.
+                    <br>
+                    Details required for executive summary:
+                    <br>                    The problem being addressed<br>
+                    The B-plan: - The initiative, Details of the execution plan, Feasibility and Sustainability of the idea, Magnitude of Impact on the Society, Revenue Generation
+                    <br>Scalability of the idea
+                    <br>Novelty of the idea
+                     <br>Format:<br>Maximum number of pages allowed: 2 (excluding tables/ graphs/ appendices).<br>
+                 Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+ References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
+ The participants should furnish the following details about each of the team members on the cover page:<br>
+ Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+ Naming convention for E-mail subject and PDF: “Nirvaadh || P.I.G – Executive Summary || Team Name || Institute Name<br>
+ Register your team (link) and then Email us your executive summary(soft copy) in PDF format at samarpan@iimranchi.ac.in before January 19, 2016 (23:59:59)<br><br>
+ Details required for the final B-plan:<br>
+Market need: What problem does the company's product/service solve? How significant a problem is it?<br>
+ Product description: What is the product/service?<br>
+Competitor analysis: Who are the competitors and what are their strengths and weaknesses?<br>
+Marketing and sales plan: What is the target market? What are the strategies for distribution, sales, pricing and promotion?<br>
+Financial projections: Sources and uses of capital, and projected revenues and expenses<br><br>
+                    Format:
+Maximum number of pages allowed: 20 (excluding tables/ graphs/ appendices).<br>
+Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
+The participants should furnish the following details about each of the team members on the cover page:<br>
+Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+Naming convention for E-mail subject and PDF: “Nirvaadh || P.I.G – Full B-Plan || Team 
+Name || Institute Name<br>
+Email us full B-Plan(soft copy) in PDF format at samarpan@iimranchi.ac.in before January 24, 2016 (23:59:59)<br>
+In case of any disputes, the decision of the judges and the organizers shall be final and binding.</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Prizes</h3>
+                <p>Winner: Rs. 30,000/-<br>
+                    1st Runner-Up: Rs. 20,000/-<br>
+                    2nd Runner-Up: Rs. 10,000/-<br>
+                    Opportunity for funding by VC/Government to the winning team; The winning team will win a one-on-one meeting with the VC/Ministry</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Judges</h3>
+                <p>
+                </p>
+            </div>
+            <div class="clearfix"></div>
+            <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
+                Register here
+            </a>
+            <div class="collapse" id="register1">
+                <div class="well">
+
+                    <form name="drone">
+                        <p>Team Competition: 2-4 members</p>
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="" class="sr-only">Team Name*</label>
+                                <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Contact No.*</label>
+                                <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College/Organisation name*</label>
+                                <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College / University Roll No</label>
+                                <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                            </div>
+
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="" class="sr-only">Team member 2 Name*</label>
+                                <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Contact No.*</label>
+                                <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College/Organisation name*</label>
+                                <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College / University Roll No</label>
+                                <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+
+                            <div class="form-group">
+                                <label for="" class="sr-only">Team member 3 Name</label>
+                                <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Contact No.</label>
+                                <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College/Organisation name</label>
+                                <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College / University Roll No</label>
+                                <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-3">
+
+                            <div class="form-group">
+                                <label for="" class="sr-only">Team member 4 Name</label>
+                                <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Contact No.</label>
+                                <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College/Organisation name</label>
+                                <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College / University Roll No</label>
+                                <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+
+                        <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>    
+    <hr class="divider">    
+    
+    
 </div>
 </section><!--/#media-feed-->
 

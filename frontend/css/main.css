@@ -901,7 +901,11 @@ hr.divider{
 }
 
 
-
+.coming-soon{
+    text-align: center;
+    padding: 10%;
+    font-size: 3em;
+}
 /*************************
 ******Footer CSS****
 **************************/

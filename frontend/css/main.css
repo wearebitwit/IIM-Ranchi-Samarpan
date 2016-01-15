@@ -788,6 +788,16 @@ hr.divider{
     margin-top: 2%;
 }
 
+#team img{
+    margin-bottom: 4%;
+    border-radius: 2px;
+}
+
+.team-samarpan{
+    background: #fafafa;
+    padding: 1%
+}
+
 #sponsors{
     background-image: url(../images/sponsor-bg.jpg);
 }
@@ -824,6 +834,9 @@ hr.divider{
   position: absolute;
   left: 0;
   top: 0;
+}
+.ear-piece img {
+    width: 65% !important;    
 }
 
 #contact .container {

@@ -906,6 +906,11 @@ hr.divider{
     padding: 10%;
     font-size: 3em;
 }
+
+.competition .col-md-12 h3{
+    text-align: left !important;
+}
+
 /*************************
 ******Footer CSS****
 **************************/

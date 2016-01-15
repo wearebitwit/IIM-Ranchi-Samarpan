@@ -190,10 +190,6 @@
                         Other: Opportunity for funding by VC to the winning team
                     </p>
                 </div>
-                <div class="col-md-3">
-                    <h3>Judges</h3>
-                    <p></p>
-                </div>
                 <div class="col-md-12">
                     <h3>Rules</h3>
                     <p>Team Size: 2-4 members<br>
@@ -364,10 +360,6 @@
 
             </p>
         </div>
-        <div class="col-md-3">
-            <h3>Judges</h3>
-            <p></p>
-        </div>
         <div class="col-md-12">
             <h3>Rules</h3>
             <p>Team Size: 2-4 members<br>
@@ -536,10 +528,6 @@
 
                     </p>
                 </div>
-                <div class="col-md-3">
-                    <h3>Judges</h3>
-                    <p></p>
-                </div>
                 <div class="col-md-12">
                     <h3>Rules</h3>
                     <p>Team Size: 1-2 members <br>
@@ -659,10 +647,6 @@
 
                 2nd Runner-Up: Rs. 5,000/-<br>
                 Top 3 articles will be published in the annual Samarpan magazine</p>
-        </div>
-        <div class="col-md-3">
-            <h3>Judges</h3>
-            <p>Coming Soon</p>
         </div>
         <div class="col-md-12">
             <h3>Rules</h3>
@@ -802,10 +786,6 @@
                 2nd Runner-Up: Rs. 3,000/-<br>
                 Other: Top 10 films will be uploaded on Samarpan's youtube channel; The Best Film will be shown during the Excelsior</p>
         </div>
-        <div class="col-md-3">
-            <h3>Judges</h3>
-            <p>Coming Soon</p>
-        </div>
         <div class="col-md-12">
             <h3>Rules</h3>
             <p>Theme: Divyang (Differently Abled people)<br>
@@ -816,9 +796,9 @@
                 Duration of the film: 5-7min long<br>
                 The participants also have to submit a up to 100 words write-up, explaining the concept / or message of their film.<br>
 
-                Register your team (link) and then Email us your short film and write-up (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 26, 2016 (23:59:59)<br>
+                Register your team (link) and then upload your video on YouTube and share the link of the same and write-up (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 26, 2016 (23:59:59)<br>
 
-                Please make sure that your finished documentary is under 1.5GB in size and that it is in one of the following video formats: .MP4 .AVI .MOV .MPG .MPG2 .MPEG2 .WMV <br>
+            
 
 
                 All entries become the property of IIM Ranchi. Entrants, without any compensation from IIM Ranchi, grant permission to IIM Ranchi to use their names, likenesses and entries for promotional purposes related to IIM Ranchi and its activities. By submitting an entry, entrants (i) represent that their entries constitute original works of creativity that do not violate the property rights of any other person, and (ii) grant IIM Ranchi the right to exhibit, distribute, televise and otherwise use the entries in various media.<br>
@@ -943,11 +923,7 @@
                 1st Runner-Up: Rs. 3,000/-<br>
 
                 2nd Runner-Up: Rs. 2,000/-</p>
-        </div>
-        <div class="col-md-3">
-            <h3>Judges</h3>
-            <p></p>
-        </div>  
+        </div> 
         <div class="col-md-12">
             <h3>Rules</h3>
             <p>Team Size: 2-4 members<br>
@@ -1169,9 +1145,6 @@
             2nd Runner-Up: Rs. 2,000/-
             <br> Other: Exciting Goodies and Gift Hampers!</p>
     </div>
-    <div class="col-md-3">
-        <h3>Judges</h3>
-    </div>  
     <div class="col-md-12">
         <h3>Rules</h3>
         <p>Team Size: 2-4 members<br>
@@ -1367,11 +1340,7 @@
                     <br>            1st Runner-Up: Rs. 2,000/-
                     <br>            2nd Runner-Up: Rs. 1,000/-<br>
                     Top 10 entries will be displayed in exhibition during lunch and tea breaks during Radix; Best 3 entries will be published in the annual Samarpan magazine</p>
-            </div>
-            <div class="col-md-3">
-                <h3>Judges</h3>
-                <p>Coming Soon…</p>
-            </div>   
+            </div>  
             <div class="col-md-12">
                 <h3>Rules</h3>
                 <p>Theme: Disappearing professions and career options for these professionals.<br>
@@ -1563,9 +1532,6 @@
                         2nd Runner Up: Prizes worth Rs. 1000<br>
                         Participation Medal given to all participants</p>
                     </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                    </div>
 
 
                     <div class="clearfix"></div>
@@ -1628,9 +1594,6 @@
                         1st Runner Up: Prizes worth Rs. 3,000<br>
                         2nd Runner Up: Prizes worth Rs. 1000<br>
                         Participation Medal given to all participants</p>
-                    </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
                     </div>
 
                     <div class="clearfix"></div>          <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
@@ -1784,10 +1747,6 @@
                             Other: Exciting Goodies and Gift Hampers!
                         </p>
                     </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
-                    </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
                         <p>Individual entry.<br>
@@ -1831,10 +1790,6 @@
                         <p>Winner: Rs. 500/-<br>
                             Other: Exciting Goodies and Gift Hampers!
                         </p>
-                    </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
                     </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
@@ -1881,10 +1836,6 @@
                             Other:Exciting Goodies and Gift Hampers!
                             </p>
                     </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
-                    </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
                         <p>Be the Hermes for Nirvaadh <br>
@@ -1920,10 +1871,6 @@
                             Other:Exciting Goodies and Gift Hampers!
                         </p>
                     </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
-                    </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
                         <p>Score given to an institute’s representation in any of the 8 main competitions: 2 points for each representative per competition. <br>
@@ -1956,10 +1903,6 @@
                             Other:Exciting Goodies and Gift Hampers!
                         </p>
                     </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
-                    </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
                         <p>Score given to a company’s representation in any of the 3 events (Radix, Funathon and Excelsior): 2 for each event<br>
@@ -1989,10 +1932,6 @@
                         <p>Winner: Rs. 500/-<br>
                             Other:Exciting Goodies and Gift Hampers!
                         </p>
-                    </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
                     </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
@@ -2025,10 +1964,6 @@
                         <p>Winner: Rs. 500/-<br>
                             Other:Exciting Goodies and Gift Hampers!
                         </p>
-                    </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
                     </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
@@ -2070,10 +2005,6 @@
                             Photography Winner: Rs. 500/-<br>
                             Other:Exciting Goodies and Gift Hampers!
                         </p>
-                    </div>
-                    <div class="col-md-3">
-                        <h3>Judges</h3>
-                        <p></p>
                     </div>
                     <div class="col-md-12">
                         <h3>Rules</h3>
@@ -2120,7 +2051,7 @@
                     </div>
                     <div class="col-sm-3">
                         <img class="img-responsive" src="images/team/Revati%20Gurav.jpg">
-                        <p>Revati Gaurav<br>
+                        <p>Revati Gurav<br>
                             Coordinator – Samarpan club<br>
                             Ph: +91- 9022446595<br>
                             Email-id: revati.gurav15@iimranchi.ac.in</p>

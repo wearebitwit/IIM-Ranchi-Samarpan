@@ -154,6 +154,7 @@
 				<div class="col-sm-12 col-md-9">
 					<div id="event-carousel" class="carousel slide" data-interval="false">
                         <h2 class="heading">Events (6-7th February 2016)</h2>
+                        <p>Click on images to explore more..</p>
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="row event-row">							
@@ -358,7 +359,7 @@
 						
 						<div class="contact-address">
 							<address>
-                                Revati Gaurav<br>
+                                Revati Gurav<br>
 
                                 Coordinator – Samarpan club<br>
 
@@ -393,7 +394,15 @@
     <footer id="footer">
         <div class="container">
             <div class="text-center">
-                <p> Copyright  &copy; 2016 <a target="_blank" href="#">Samarpan IIM Ranchi</a>  <br>Revamped by <a href="http://www.wearebitwit.com">Team BitWit</a></p>                
+                <p> Copyright  &copy; 2016 <a target="_blank" href="#">Samarpan IIM Ranchi</a>
+                    <br>
+                <p>Website Sponsored by </p>
+                <div class="col-sm-2 col-sm-offset-4 col-xs-4 col-xs-offset-3"> <img class="img-responsive" src="images/Printech.png"> </div>
+                <div class="col-sm-1 col-sm-offset-1 col-xs-3">
+                    <img class="img-responsive" src="images/Globe-Engineers.png"></div>
+                <br>
+                <div class="clearfix"></div>
+                <p>&amp; Developed by <a href="http://www.wearebitwit.com">Team BitWit</a></p>                
             </div>
         </div>
     </footer>

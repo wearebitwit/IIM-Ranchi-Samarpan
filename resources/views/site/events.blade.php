@@ -1406,7 +1406,7 @@
                     </div>
                     </div>
                     <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button>
+                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
                     
                 </form>
             </div>
@@ -1428,7 +1428,7 @@
                 <h2>Funathon and Walkathon – 2.0 </h2>
                 <p><strong> 7th February 2016</strong> | Sunday | 5 – 10 am | Morabadi Stadium
                 </p>
-                <h3>Fun-a-thon : 10 km <strong>run</strong> <br>
+                <h3>Fun-a-thon : 8 km <strong>run</strong> <br>
                     Walk-a-thon : 5 km <strong>walk</strong> 
                 </h3>
                 <p><strong></strong></p>
@@ -1516,15 +1516,30 @@
             <div class="row competition">
                 <div class="col-md-12">
                     <h2>Fun-a-thon</h2>
-                    <p>10 km <strong>run</strong> <br>
+                    <p>8 km <strong>run</strong> <br>
                       
                     </p>
 
                     <div class="col-md-3">
                         <h3>Timeline</h3>
+                        <p>Registrations start: 5:30 am
+                        <br>    Registrations close: 6:30 am
+                            <br>Zumba Work Out Session: 6:40 – 7:00 am
+                            <br>Race Begins at 7:10 am
+                        </p>
                     </div>
                     <div class="col-md-3">
-                        <h3>Rules</h3>
+                        <h3>General Guidelines</h3>
+                        <p>All the participants are requested to gather at Morabadi Stadium in Ranchi at 5:30 am. Please adhere to the timelines for a hassle-free and memorable experience  <br>
+                            Once the participants register themselves at the Registration counter, they can collect their bibs and deposit all their belongings at the baggage counter.  <br>
+                            Once the Registration is completed, the participants can join the Zumba Work Out session, which will take place near the flag-off area. <br>
+
+                            The Race begins at 7:10 am, 7th February, Sunday! <br>
+
+                            Put those shoes on, <br>
+                            Run for a Cause! <br>
+                            Looking forward to see you there  
+                        </p>
                     </div>
                     <div class="col-md-3">
                         <h3>Prizes</h3> <p>Winner: Prizes worth Rs. 5,000<br>
@@ -1536,45 +1551,7 @@
 
                     <div class="clearfix"></div>
                     <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
-                    
-                    <!-- <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register7" aria-expanded="false" aria-controls="collapseExample">
-                        Register here
-                    </a>
-                    <div class="collapse" id="register7">
-                        <div class="well">
-
-                            <form name="funathon">
-                                <p>Individual Competition</p>
-                                <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="" class="sr-only"> Name*</label>
-                                    <input type="text" class="form-control" name="player1" placeholder="Name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.*</label>
-                                    <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name*</label>
-                                    <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                                </div>
-                                </div>
-
-                               <div class="clearfix"></div>
-                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                            </form>
-                        </div>
-                    </div>
--->
-
+        
                 </div>
             </div>
                <hr class="divider">
@@ -1585,9 +1562,25 @@
                         </p>
                     <div class="col-md-3">
                         <h3>Timeline</h3>
+                        <p>Registrations start: 6:30 am<br>
+                            Registrations close: 7:30 am<br>
+                            Zumba Work Out Session: 7:40 – 8:00 am<br>
+                            Race Begins at 8:10 am<br>
+                        </p>
                     </div>
                     <div class="col-md-3">
-                        <h3>Rules</h3>
+                        <h3>General Guidelines</h3>
+                        <p>All the participants are requested to gather at Morabadi Stadium in Ranchi at 6:30 am. Please adhere to the timelines for a hassle-free and memorable experience <br>
+                            Once the participants register themselves at the Registration counter, they can collect their bibs and deposit all their belongings at the baggage counter. <br>
+                            Once the Registration is completed, the participants can join the Zumba Work Out session, which will take place near the flag-off area.<br>
+
+                            The Race begins at 8:10 am, 7th February, Sunday!<br>
+
+                            Put those shoes on,<br>
+                            Walk for a Cause!<br>
+                            Looking forward to see you there  
+
+                        </p>
                     </div>
                     <div class="col-md-3">
                         <h3>Prizes</h3> <p>Winner: Prizes worth Rs. 5,000<br>
@@ -1598,47 +1591,6 @@
 
                     <div class="clearfix"></div>          <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
                     
-<!--
-                    
-                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register8" aria-expanded="false" aria-controls="collapseExample">
-                        Register here
-                    </a>
-                    <div class="collapse" id="register8">
-                        <div class="well">
-
-                            <form name="walkathon">
-                                <p>Individual Competition</p>
-                                <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="" class="sr-only"> Name*</label>
-                                    <input type="text" class="form-control" name="player1" placeholder="Name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.*</label>
-                                    <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name*</label>
-                                    <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                                </div>
-                                </div>
-                                
-
-                               <div class="clearfix"></div>
-                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                            </form>
-                        </div>
-                    </div>
--->
-
                 </div>
             </div>
             <hr class="divider">
@@ -1672,9 +1624,17 @@
                         It gives the children of NGOs an opportunity and a platform to showcase their talent in front of the world, especially to the the corporates who channel their CSR money to these organisations. <br>
 
                         Timeline:<br>
+<!--
                         4 – 6 pm – Football Matches between IIM Ranchi, Yuwa and <a href="http://www.agnelgreaternoida.org/Agnel_balBhawan.aspx" target="_blank">Fr. Agnel Balbhawan </a><br>
 
                         6 – 7 pm – Cultural Programs and Felicitation (SelfieSuperStar and the Nirvaadh Cups and the True Nirvaadhi award)<br>
+-->
+                        1.	Welcome Dance by the differently abled students of Kshitish School for deaf and dumb<br>
+                        2.	Football Matches<br>
+                        •	Girls: Yuwa Vs. Fr. Agnel Balbhawan<br>
+                        •	Boys: IIM Ranchi Vs. Fr. Agnel Balbhawan<br>
+                        3.	Musical Skit by Yuwa Girls (about their life and their association with Yuwa)<br>
+                        4.	Musical Band Performance by the students of Fr. Agnel Balbhawan
 
 
                     </p>
@@ -1688,7 +1648,14 @@
         <h2>Events</h2>
         <div class="container">
             <div class="row competition">
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <h2>Welcome Dance </h2>
+
+                    <p> by the differently abled students of <strong>Kshitish School</strong>  for deaf and dumb
+                    </p>
+
+                </div>
+                <div class="col-md-3">
                     <h2>Football Matches</h2>
 
                     <p> <strong> (Girls)</strong> 
@@ -1699,7 +1666,7 @@
                     </p>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <h2>Musical Skit performance
                     </h2>
 
@@ -1708,7 +1675,7 @@
                     </p>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <h2>Musical Band performance
                     </h2>
 
@@ -2067,7 +2034,7 @@
             </div>
             <div class="row">
 
-                <div class="col-sm-3 col-sm-offset-1">
+                <div class="col-sm-3 col-sm-offset-3">
                     <img class="img-responsive" src="images/team/Suleman%20Safdar.jpg">
                     <p>Suleman Safdar<br>
                         Senior coordinator – Conundrum Club<br>
@@ -2079,13 +2046,6 @@
                         Operations Head – Nirvaadh<br>
                         Email id: abhishek.gupta14@iimranchi.ac.in</p>
                 </div>
-                <div class="col-sm-3">
-                    <img class="img-responsive" src="images/team/Sumit%20Kumar.jpg">
-                    <p>Sumit Kumar<br>
-                        Senior Coordinator – IT Committee<br>
-                        Email id: sumit.kumar14@iimranchi.ac.in</p>
-
-                </div>
             </div>
 
             <hr class="divider">
@@ -2095,7 +2055,7 @@
 
                 <h3>Team Sankriya – the Operations and General Management Club</h3>
 
-                <div class="col-sm-3">
+                <div class="col-sm-3 col-sm-offset-1">
                     <img class="img-responsive" src="images/team/Rupesh%20Kumar.jpg">
                     <p>Rupesh Kumar<br>
                         Senior coordinator – Sankriya Club<br>
@@ -2107,12 +2067,6 @@
                     <p>Anushka Chowdhary<br>
                         Senior coordinator – Sankriya club<br>
                         Email-id: anushka.chowdhury14@iimranchi.ac.in</p>
-                </div>
-                <div class="col-sm-3">
-                    <img class="img-responsive" src="images/team/Pranav%20Patil.jpg">
-                    <p>Pranav Patil<br>
-                        Senior coordinator – Sankriya Club<br>
-                        Email-id: patil.ranjan14@iimranchi.ac.in</p>
                 </div>
                 <div class="col-sm-3">
                     <img class="img-responsive" src="images/team/Saswata%20Banerjee.jpg">
@@ -2192,13 +2146,21 @@
     </section>
 
 
-<footer id="footer">
-<div class="container">
-<div class="text-center">
-<p> Copyright  &copy; 2016 <a target="_blank" href="#">Samarpan IIM Ranchi</a>  <br>Revamped by <a href="http://www.wearebitwit.com">Team BitWit</a></p>                
-</div>
-</div>
-</footer>
+    <footer id="footer">
+        <div class="container">
+            <div class="text-center">
+                <p> Copyright  &copy; 2016 <a target="_blank" href="#">Samarpan IIM Ranchi</a>
+                    <br>
+                <p>Website Sponsored by </p>
+                <div class="col-sm-2 col-sm-offset-4 col-xs-4 col-xs-offset-3"> <img class="img-responsive" src="images/Printech.png"> </div>
+                <div class="col-sm-1 col-sm-offset-1 col-xs-3">
+                    <img class="img-responsive" src="images/Globe-Engineers.png"></div>
+                <br>
+                <div class="clearfix"></div>
+                <p>&amp; Developed by <a href="http://www.wearebitwit.com">Team BitWit</a></p>                
+            </div>
+        </div>
+    </footer>
 <!--/#footer-->
 
 <script type="text/javascript" src="js/jquery.js"></script>

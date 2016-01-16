@@ -1528,7 +1528,7 @@
                             <br>Race Begins at 7:10 am
                         </p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-6">
                         <h3>General Guidelines</h3>
                         <p>All the participants are requested to gather at Morabadi Stadium in Ranchi at 5:30 am. Please adhere to the timelines for a hassle-free and memorable experience  <br>
                             Once the participants register themselves at the Registration counter, they can collect their bibs and deposit all their belongings at the baggage counter.  <br>
@@ -1568,7 +1568,7 @@
                             Race Begins at 8:10 am<br>
                         </p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-6">
                         <h3>General Guidelines</h3>
                         <p>All the participants are requested to gather at Morabadi Stadium in Ranchi at 6:30 am. Please adhere to the timelines for a hassle-free and memorable experience <br>
                             Once the participants register themselves at the Registration counter, they can collect their bibs and deposit all their belongings at the baggage counter. <br>

@@ -65,7 +65,6 @@ h2 {
 .header-top {
   display: block;
   overflow: hidden;
-  padding: 25px;
 }
 
 .main-nav {
@@ -102,16 +101,17 @@ h2 {
 }
 
 .navbar-brand {
-  background-color: #1B7B98;
-  height: 90px;
-  margin-bottom: 20px;
+/*  background-color: #1B7B98;*/
+  height: 80px;
+/*  margin-bottom: 20px;*/
   position: relative;
-  width: 297px;
+/*  width: 297px;*/
+  width: 200px;
 }
 
 .navbar-brand img {
   position: absolute;
-  top: -35px;
+  top: 0px;
 }
 
 .navbar-right {
@@ -121,7 +121,7 @@ h2 {
 }
 
 .navbar-right li a {
-  padding: 35px 21px;
+  padding: 25px 21px;
   font-size: 22px;
   color: #fff;
   text-transform: uppercase;
@@ -187,6 +187,9 @@ h2 {
 .fixed-menu .navbar-brand img {
   height:60px;
   top: 0;
+}
+.fixed-menu .events-page   img {
+  height:90px !important;
 }
 
 .fixed-menu .header-top {
@@ -515,10 +518,10 @@ h2 {
     transition: .8s ease;
     transform: scale(1.07);
 }
-.event-header h1{
+.event-header h2{
     text-align: center;
-    color: #df5a49;
-    font-size: 3em;
+    font-size: 1.5em;
+    text-transform:inherit;
 }
 .subtitle{
     margin-top: 0;
@@ -530,16 +533,38 @@ hr.header{
 }
 
 .event-header{
-    padding-top: 13%;
+    padding-top: 10%;
     padding-bottom: 2%;
-    background: #ecedef;
+/*    background: #ecedef;*/
 }
+
+.event-listing img{
+    margin: auto;
+}
+
+.event-listing a{
+    margin-top: 0;
+   font-size: 1.1em;
+    display: block;
+    text-align: center;
+}
+.event-listing img{
+
+    transition: 1s ease;
+}
+.event-listing a:hover img{
+
+    transition: .8s ease;
+    transform: scale(1.082);
+}
+.event-listing a:hover{
+    color: black;
+}
+
 .event-header h2,.event-header h3,.event-header p{
-    color: #16728f;
     text-align: center
 }
 .event-header2 h2,.event-header2 h3,.event-header2 p{
-    color: #16728f;
     text-align: center
 }
 .event-header2{
@@ -547,6 +572,7 @@ hr.header{
     padding-bottom: 2%;
     background: #ecedef;
 }
+
 .event-header3 h2,.event-header3 h3,.event-header3 p{
     color: #16728f;
     text-align: center
@@ -554,11 +580,78 @@ hr.header{
 .event-header3{
     padding-top: 3%;
     padding-bottom: 2%;
-    background: #ecedef;
+    background: white;
+    border-bottom: 5px dashed #1B7B98;
 }
 #about-event{
-    background: #d13d2f;
+    background: #f0f0f0;
+    background: rgba(97, 186, 124, 0.12);
     padding: 2% 0;
+}
+#about-event  h1, #about-event  h2, #about-event  h3, #about-event  p, #about-event ul{
+    color: #4a4a4a !important;
+}
+#funathon{
+    background-image: url(../images/funathon-bg.jpg);
+    background-attachment: fixed;
+}
+
+#funathon h1,#funathon h2,#funathon h3,#funathon p,#funathon h1,{
+    color: white !important;
+}
+
+.welcome{
+    border-radius: 15px;
+    padding: 2% 3%;
+    background: white;
+}
+.welcome h2{
+    font-size: 1.7em;
+    font-weight: 400;
+}
+
+.welcome img{
+    margin: auto;
+}
+
+#excelsior{
+    background-image: url(../images/excelsior-bg.jpg);  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.theme{
+    background: white;
+    padding: 4%;
+    border-radius: 22px;
+    margin-bottom: 4%;
+}
+#fun{
+    padding: 1.2% 4% 1.5%;
+    background: rgba(255, 255, 255, 1);
+}
+
+#fun p{
+    color: #222!important;
+}
+#fun img{
+    padding: 0 10%;
+}
+
+.facet .col-sm-2 p{
+    color: #3366ff!important;
+    text-align: center;
+    font-weight: 500;
+}
+
+#funathon span{
+    margin: 0 20px ;
+}
+
+a.details{
+    text-decoration: underline;
 }
 
 .competition h3{
@@ -604,7 +697,7 @@ hr.header{
 }
 
 .about-content {
-  width: 50%;
+  width: 80%;
    background-image: url("../images/about-bg.jpg");
   background-position: left bottom;
   background-repeat: no-repeat;
@@ -643,6 +736,21 @@ hr.divider{
 ******media CSS****
 **************************/
 
+#events {
+  background-color: white;
+  position: relative;
+  padding: 15px 0 90px;
+  overflow: hidden;
+}
+
+#events h2{
+    text-align: center;
+    color: #3b5997;
+}
+
+#events p{
+    color: #3b5997;
+}
 #media {
   background-color: #ecedef;
   background-image: url("../images/twitter-bg.jpg");
@@ -713,8 +821,6 @@ hr.divider{
 .media-control-right {
   right:0;
 } 
-
-
 
 /*************************
 ******initiatives CSS****
@@ -791,6 +897,7 @@ hr.divider{
 #team img{
     margin-bottom: 4%;
     border-radius: 2px;
+    padding: 0 40% 0 0;
 }
 
 .team-samarpan{
@@ -935,3 +1042,6 @@ hr.divider{
 }
 
 
+.centered{
+    text-align: center !important;
+}

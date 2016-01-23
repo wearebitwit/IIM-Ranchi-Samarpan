@@ -26,14 +26,7 @@
 <body>
 	<header id="header" role="banner">		
 		<div class="main-nav">
-			<div class="container">
-				<div class="header-top">
-					<div class="pull-right social-icons">
-                        <a href="https://twitter.com/Samarpan_IIMR" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <a href="https://www.facebook.com/samarpan.iimr/" target="_blank"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.youtube.com/channel/UCFz2pIMP5F7UFqRicSF7sug/videos" target="_blank"><i class="fa fa-youtube"></i></a>
-					</div>
-				</div>     
+			<div class="container">   
 		        <div class="row">	        		
 		            <div class="navbar-header">
 		                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -43,7 +36,7 @@
 		                    <span class="icon-bar"></span>
 		                </button>
 		                <a class="navbar-brand" href="/">
-		                	<img class="img-responsive" src="images/logo.png" alt="logo">
+                            <img class="img-responsive" src="images/samarpan-iim.jpg" alt="logo">
 		                </a>                    
 		            </div>
 		            <div class="collapse navbar-collapse">
@@ -54,10 +47,20 @@
 		                    <li class="scroll"><a href="#about">About</a></li>                     
 		                    <li class="scroll"><a href="#media">Media</a></li>
 		                    <li><a class="scroll" href="#initiatives" >Initiatives so far</a></li>
+                           
 		                    <li class="scroll"><a href="#contact">Contact</a></li>       
 		                </ul>
 		            </div>
 		        </div>
+
+                <div class="header-top">
+                    <div class="pull-right social-icons">
+                        <a href="https://twitter.com/Samarpan_IIMR" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/samarpan.iimr/" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.youtube.com/channel/UCFz2pIMP5F7UFqRicSF7sug/videos" target="_blank"><i class="fa fa-youtube"></i></a>
+                        <a href="http://blog.iimsamarpan.com/" target="_blank" >Blog</a>
+                    </div>
+                </div>  
 	        </div>
         </div>                    
     </header>
@@ -74,11 +77,13 @@
 
                 <div class="item  active">
                     <img class="img-responsive" src="images/slider/Nirvaadh.jpg" alt="slider">	
+<!--
                     <div class="carousel-caption">
                         <h2>Nirvaadh</h2>
                         <h4>Radix | Fun-a-thon &amp walk-a-thon | Excelsior</h4>
                         <a href="#event" class="scroll">register here <i class="fa fa-angle-right"></i></a>
                     </div>
+-->
                 </div>	
 				<div class="item">
 					<img class="img-responsive" src="images/slider/back1.jpg" alt="slider">						
@@ -142,9 +147,11 @@
 					</ul>
 				</div>
 			</div>
+<!--
 			<div class="cart">
-				<a href="/events"><i class="fa fa-shopping-cart"></i> <span>Register here</span></a>
+                <a href="/events"><i class="fa fa-icon-th-list"></i> <span>Register here</span></a>
 			</div>
+-->
 		</div>
 	</section><!--/#explore-->
 
@@ -153,7 +160,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-9">
 					<div id="event-carousel" class="carousel slide" data-interval="false">
-                        <h2 class="heading">Events (6-7th February 2016)</h2>
+                        <h2 class="heading">Nirvaadh (6-7th February 2016)</h2>
                         <p>Click on images to explore more..</p>
 						<div class="carousel-inner">
 							<div class="item active">
@@ -206,15 +213,15 @@
 		</div>
 		<div class="about-content">					
 					<h2>About Samarpan</h2>
-            <p>Samarpan is the Corporate Social Responsibility club of IIM Ranchi. “Samarpan” is homage to all those who have demonstrated commendable spirit and courage to take the cause of mankind forward and a show of solidarity to those who have been victimized or have suffered due to the sharp divide that exists in our society.<br> 
+            <p>Samarpan is the Corporate Social Responsibility club of IIM Ranchi.<br><br> “Samarpan” is homage to all those who have demonstrated commendable spirit and courage to take the cause of mankind forward and a show of solidarity to those who have been victimized or have suffered due to the sharp divide that exists in our society.<br> 
 
                 Since its inception, the club has taken several initiatives like Samvid (cleanliness awareness to motivate the rural people to keep the environment clean), Volunteer to Teach, National Conference on Inclusive and Impactful CSR, Blood donation camp (organized on Independence day and Republic day), Joy of Giving (fulfilling wishes of underprivileged section of society), Funathon and Walkathon (Run for a cause) etc.<br>
 
                 We strongly believe in inclusive growth and developing sustainable solutions for the betterment of society. One small pebble can create ripples in an entire river and we are trying our best to generate those ripples.
-               <br> <strong> Our Vision</strong><br>
+               <br><br> <strong> Our Vision</strong><br>
 
                 ” One day all corporate houses will work not just for their personal growth, but also for an inclusive and sustainable growth and make this world a better place to live in.”
-<br>
+<br><br>
                 <strong>Our Mission</strong><br>
 
                 ” Imbibing, in the managers of tomorrow, a sense of responsibility and sensitivity towards the society in which their businesses will operate”</p>

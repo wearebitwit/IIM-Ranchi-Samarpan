@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Samarpan | IIM Ranchi</title>
+    <title>Nirvaadh | 6-7th Feb</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
@@ -26,14 +26,7 @@
 <body>
 <header id="header" role="banner">      
 <div class="main-nav">
-<div class="container">
-<div class="header-top">
-<div class="pull-right social-icons">
-    <a href="https://twitter.com/Samarpan_IIMR" target="_blank"><i class="fa fa-twitter"></i></a>
-    <a href="https://www.facebook.com/samarpan.iimr/" target="_blank"><i class="fa fa-facebook"></i></a>
-    <a href="https://www.youtube.com/channel/UCFz2pIMP5F7UFqRicSF7sug/videos" target="_blank"><i class="fa fa-youtube"></i></a>
-</div>
-</div>     
+<div class="container">   
 <div class="row">                   
 <div class="navbar-header">
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -42,196 +35,230 @@
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<a class="navbar-brand" href="../">
-<img class="img-responsive" src="images/logo.png" alt="logo">
+    <a class="navbar-brand" href="../">
+    <img class="img-responsive" src="images/samarpan-iim.jpg" alt="logo">
 </a>                    
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">                 
-<li class="ext"><a href="../#home">Home</a></li>
-<li class="ext"><a href="../#explore">Explore</a></li>                         
-<li class="ext"><a href="../#event">Event</a></li>
-<li class="ext"><a href="../#about">About</a></li>                     
-<li class="ext"><a href="../#media">Media</a></li>
-<li class="ext"><a href="../#initiatives" >Initiatives so far</a></li>
-<li class="ext"><a href="../#contact">Contact</a></li>       
+    <li class="scroll"><a href="#">Nirvaadh</a></li>
+    <li class="scroll"><a href="#radix">Radix</a></li>
+    <li class="scroll"><a href="#funathon">Funathon</a></li>                         
+    <li class="scroll"><a href="#excelsior">Excelsior</a></li>
+    <li class="scroll"><a href="#competition">Competitions</a></li>
+    <li class="scroll"><a href="#awards">Special Awards</a></li>
+    <li class="scroll"><a href="#team">Team</a></li>                     
+    <li class="scroll"><a href="#sponsors">Sponsors</a></li>      
 </ul>
 </div>
 </div>
    
-<div class="row"> 
-<div class="collapse navbar-collapse navbar-right sub-nav" id="sub-navigation">
-<ul class="nav navbar-nav">                 
-<li class="scroll"><a href="#radix">Radix</a></li>
-<li class="scroll"><a href="#funathon">Funathon</a></li>                         
-<li class="scroll"><a href="#excelsior">Excelsior</a></li>
-    <li class="scroll"><a href="#awards">Special Awards</a></li>
-<li class="scroll"><a href="#team">Team</a></li>                     
-<li class="scroll"><a href="#sponsors">Sponsors</a></li>
-</ul>
-</div>
-</div>
+    <div class="header-top">
+        <div class="pull-right social-icons">
+            <a href="https://twitter.com/Samarpan_IIMR" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.facebook.com/samarpan.iimr/" target="_blank"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.youtube.com/channel/UCFz2pIMP5F7UFqRicSF7sug/videos" target="_blank"><i class="fa fa-youtube"></i></a>
+        </div>
+    </div>  
 </div>
 </div>                    
 </header>
-<!--/#header--> 
-<section class="event-header" id="radix">
-    <div class="container">
-        <div class="row">
-           <h1>NIRVAADH</h1>
-            <h2 class="subtitle">6th - 7th February 2016</h2>
-            <hr class="header">
-            <p>'NIRVAADH', a unique concept which binds together businesses, and the stakeholders which get affected by them either directly or indirectly. It has 3 events - <br>
-                1.	Radix – (Connect.Enthuse.Foster) the annual business conclave of IIM Ranchi<br>
-                2.	Funathon and Walkathon – Run/Walk for a cause<br>
-                3.	Excelsior – (ever upward) a platform for the ingenious, capable and adroit.
-            </p><br>
-            <h2 class="subtitle">Radix | Fun-a-thon &amp; Walk-a-thon | Excelsior</h2>
-            <br>           
-            <h2>Radix - Business Conclave</h2>
-            <p><strong>Theme:</strong> 'ideas to implementation'</p>
-            <h3>Samarpan - The CSR Club, IIM Ranchi</h3>
-            <p><strong>Subtheme:</strong> "Sustainable Business Strategies"</p>
-        </div>
-    </div>    
-</section>
-
-
-<section id="about-event">
-<div class="container">
-<div class="row">       
-<div class="col-sm-6">
-<h2>About Radix</h2>
-   <p>
-       Radix is the annual business conclave of IIM Ranchi. The first season of Radix, held on 17th-18th January, 2015, was a joint initiative by the Consulting Club and HR Club of IIM Ranchi. <br>
-       About Radix – 2.0 <br>
-       about theme: ‘ideas to implementation’ <br>
-       In today’s world of dynamic business paradigms, an idea is all it takes to change the present and create history. But an idea alone does not suffice. It requires proper nourishment from all stakeholders, it requires ‘implementation’. And most importantly, it needs that pivotal push, breaking inertia and the fear uncertainty. With this focus, we are launching this year’s Radix with the theme ‘Ideas to Implement’. <br>
-       About sub-theme: ‘Sustainable  Business Strategies’<br>
-       Sustainable business, or green business, is an enterprise that has minimal negative impact on the global or local environment, community, society, or economy. <br>
-       Facets of Sustainable Business Strategies:<br>
-       Corporate Sustainability: a business approach that creates long-term shareholder value by embracing opportunities and managing risks deriving from economic, environmental and social developments
-
-</div>  
-
-<div class="col-sm-6">
-   <h2>Speakers</h2>
-   
-    <h2 class="coming-soon">Coming Soon</h2>
-<!--
-    <div class="row speaker">
-        <div class="col-md-3 col-sm-5 col-xs-3">
-            <img class="img-responsive" src="images/user.png">
-        </div>
-        <div class="col-md-9 col-sm-7 col-xs-9">
-            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
-        </div>
-    </div>
-    <div class="row speaker">
-        <div class="col-md-3 col-sm-5 col-xs-3">
-            <img class="img-responsive" src="images/user.png">
-        </div>
-        <div class="col-md-9 col-sm-7 col-xs-9">
-            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
-        </div>
-    </div>
-    <div class="row speaker">
-        <div class="col-md-3 col-sm-5 col-xs-3">
-            <img class="img-responsive" src="images/user.png">
-        </div>
-        <div class="col-md-9 col-sm-7 col-xs-9">
-            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
-        </div>
-    </div>
--->
-</div>
-
-</div>
-</div>
-</section><!--/#-->
-
-
-<section id="media">
-<h2>Competitions</h2>
-    <div class="container">
-        <div class="row competition">
-            <div class="col-md-12">
-                <h2>P.I.G - Paint It Green: Socially Responsible Business Plan Competition </h2>
-                <p>P.I.G is a pan-India ‘Socially Responsible Business Plan Competition’ organized by Samarpan – the CSR club of IIM Ranchi. P.I.G is a platform for all aspiring social entrepreneurs who wish to help India in in its ‘Make In India’ and ‘Make For India’ campaign.<br>
-                    Theme: - Clean Energy / Green Energy / Renewable Energy / Smart Energy<br>
-
-                    ‘India has committed for the Paris climate change agreement, that 40 per cent of its total power capacity by 2030 will be based on renewable sources.’
-                    -	According to a ‘Business Standard’ report<br>
-
-                    The rising fuel prices, drastic climate changes, threat to energy security and the need to manage economic growth, have led India to explore the renewable energy avenues with more diligence, as renewable energy offers critical solution to India’s ever increasing energy demand.<br>
-
-                    Thus, this season of P.I.G encourages budding social entrepreneurs to explore the possibilities of Clean, Green and Smart Energy. <br>
-                    Let us make our contribution towards making India energy sufficient 
-                    <br>
-                    <br>
-                    Team Size: 2-4;<br>
-                    Number of Rounds: 2;<br> Round 1: Submission of full B-plan;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges and VCs, on campus during Radix
-
-
-
-
-                </p>
-                <div class="col-md-3">
-                    <h3>Timeline</h3>
-                    <p>Last Date of registration and submission of entries: <br>Round 1: 24 January 2016<br> Round 2: 6 February 2016<br>
-                        Deadline extended: NO!<br>
-                        Declare Results – Shortlist of final 3 teams: 29 January 2016 </p>
-                </div>
-                <div class="col-md-3">
-                    <h3>Prizes</h3>
-                    <p>Winner: Rs. 15,000/-<br>
-                        1st Runner-Up: Rs. 8,000/-<br>
-                        2nd Runner-Up: Rs. 5,000/-<br>
-                        Other: Opportunity for funding by VC to the winning team
-                    </p>
-                </div>
-                <div class="col-md-12">
-                    <h3>Rules</h3>
-                    <p>Team Size: 2-4 members<br>
-                        The team members have to be from the same institute.<br>
-                        Only one entry is allowed per team.<br>
-                        A participant can be a part of only one team.<br>
-
-                        Details required for the B-plan:<br>
-                        1.	Market need: What problem does the company's product/service solve? How significant a problem is it?<br>
-                        2.	Product description: What is the product/service?<br>
-                        3.	Competitor analysis: Who are the competitors and what are their strengths and weaknesses?<br>
-                        4.	Marketing and sales plan: What is the target market? What are the strategies for distribution, sales, pricing and promotion?<br>
-                        5.	Financial projections: Sources and uses of capital, and projected revenues and expenses<br>
-                        Format:<br>
-                        Maximum number of pages allowed: 20 (excluding tables/ graphs/ appendices).<br>
-                        Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-                        References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
-                        The participants should furnish the following details about each of the team members on the cover page:<br>
-                        Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-                        Naming convention for E-mail subject and PDF: “Nirvaadh || P.I.G – Full B-Plan || Team Name || Institute Name<br>
-                        Email us full B-Plan(soft copy) in PDF format at samarpan@iimranchi.ac.in before January 24, 2016 (23:59:59)<br>
-                        In case of any disputes, the decision of the judges and the organizers shall be final and binding.
-
-                    </p>
+    <!--/#header--> 
+    <section class="event-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <img class="img-responsive" src="images/nirwaadh-logo.png">
                 </div>
                 <div class="clearfix"></div>
-                <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register10" aria-expanded="false" aria-controls="collapseExample">
+                <h2 class="subtitle">Bridging gap between businesses and the society in which they operate</h2>
+
+
+                <hr class="header">
+                <h2 class="subtitle">6-7th February 2016</h2>
+                <br>  
+                <div class="row">
+                    <div class="col-md-2 col-md-offset-1 event-listing">
+                        <a href="#radix">
+                            <img class="img-responsive" src="images/event/event1.jpg">
+                            Radix Management Conclave
+                            <br><small>Click for details</small>
+                        </a>
+                    </div>
+                    <div class="col-md-2 event-listing">
+                        <a href="#funathon">
+                            <img class="img-responsive" src="images/event/event2.jpg">
+                            Funathon and Walkahton<br>
+                            Run/Walk for a cause <br><small>Click for details</small>
+
+                        </a>
+                    </div>
+                    <div class="col-md-2 event-listing">
+                        <a href="#excelsior">
+                            <img class="img-responsive" src="images/event/event3.jpg">
+                            Excelsior<br>
+                            a platform for the ingenious, capable and adroit
+                            <br><small>Click for details</small>
+
+                        </a>
+                    </div>
+                    <div class="col-md-2 event-listing">
+                        <a href="#competition">
+                            <img class="img-responsive" src="images/event/event4.jpg">
+                            Competitions
+                            <br><small>Click for details</small>
+
+                        </a>
+                    </div>
+                    <div class="col-md-2 event-listing">
+                        <a href="#awards">
+                            <img class="img-responsive" src="images/event/event5.jpg">
+                            Special Awards
+                            <br>
+                            <small>Click for details</small>
+
+                        </a>
+                    </div>
+                </div> 
+                <br>    
+                <br>    
+                <p style="color:#4a4a4a"><strong>An initiative by –</strong></p>
+                <h3  style="color:#4a4a4a">Samarpan - The CSR Club, IIM Ranchi</h3>
+            </div>
+        </div>    
+    </section>
+
+
+
+    <section id="about-event">
+        <div class="container" id="radix">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4 col-xs-offset-4 col-sm-offset-2">
+                    <img class="img-responsive" src="images/event/city.png">
+                </div>       
+                <div class="col-sm-4 col-xs-12 centered">
+                    <h2>Radix - Business Conclave</h2>
+                    <p><strong>Theme:</strong> 'ideas to implementation'</p>
+                    <h3>Samarpan - The CSR Club, IIM Ranchi</h3>
+                    <p><strong>Subtheme:</strong> "Sustainable Business Strategies"</p>
+                </div>
+                <div class="col-sm-2 col-xs-offset-4 col-sm-offset-0  col-xs-4">
+                    <img src="images/event/bulb.png" class="img-responsive" >
+                </div>
+
+
+            </div>
+            <div class="row">	
+                <div class="col-sm-6">
+                    <h2>About Radix</h2>
+                    <p>
+                        Radix is the annual business conclave of IIM Ranchi. The first season of Radix, held on 17th-18th January, 2015, was a joint initiative by the Consulting Club and HR Club of IIM Ranchi. <br><br>
+                        <strong> About Radix – 2.0</strong></p> <br>
+                    <div class="theme">
+                        <div class="col-sm-3">
+                            <img class="img-responsive" src="images/event/idea.png">
+                        </div><p>About theme: <strong>‘ideas to implementation’ </strong><br>
+                        In today’s world of dynamic business paradigms, an idea is all it takes to change the present and create history. But an idea alone does not suffice. It requires proper nourishment from all stakeholders, it requires ‘implementation’. And most importantly, it needs that pivotal push, breaking inertia and the fear uncertainty. With this focus, we are launching this year’s Radix with the theme ‘Ideas to Implement’. <br></p>
+                    </div>
+                    <p> About sub-theme:<strong> ‘Sustainable  Business Strategies’</strong><br>
+                        Sustainable business, or green business, is an enterprise that has minimal negative impact on the global or local environment, community, society, or economy. <br><br></p>
+
+                </div>	
+
+                <div class="col-sm-6">
+                    <h2>Speakers</h2>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>Dr. Madhulika Jonathan: </strong><br>Chief of UNICEF for Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>Moira Dawa</strong><br> Communications Officer – UNICEF for Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>K Bhatia</strong><br>MD of Bharat Wagon</p>
+                        </div>
+                    </div>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>BS Khanna </strong><br>MD of Medha – <strong>key-note speaker</strong></p>
+                        </div>
+                    </div>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>Franz Gastler </strong><br>Co-Founder of Yuwa </p>
+                        </div>
+                    </div>
+                    <div class="row speaker">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
+                            <img class="img-responsive" src="images/user.png">
+                        </div>
+                        <div class="col-md-9 col-sm-7 col-xs-9">
+                            <p><strong>Abhilash Tomy</strong><br><strong>Guest of honour and key-note speaker </strong></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="theme row facet">
+                    <p><strong>Facets of Sustainable Business Strategies:</strong><br>
+                        Corporate Sustainability: a business approach that creates long-term shareholder value by embracing opportunities and managing risks deriving from economic, environmental and social developments
+                    </p> 
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Social Entrepreneurship</p>
+                    </div>
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Importance of HRM in Sustainability</p>
+                    </div>
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Green Marketing or Sustainable Marketing</p>
+                    </div>
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Sustainable operations Management</p>
+                    </div>
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Financial Sustainable Startegies</p>
+                    </div>
+                    <div class="col-sm-2">
+                        <!--                <img class="" src="images/event/idea.png">-->
+                        <p>Applied Engineering Management</p>
+                    </div>
+                </div>
+
+                <div class="clearfix"></div>
+                <br>
+                <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register100" aria-expanded="false" aria-controls="collapseExample">
                     Register here
                 </a>
-                <div class="collapse" id="register10">
+                <div class="collapse" id="register100">
                     <div class="well">
-
-                        <form name="paint">
-                            <p>Team Competition: 2-4 members</p>
+                        <form name="radix">
                             <div class="col-md-3">
                                 <div class="form-group">
-                                    <label for="" class="sr-only">Team Name*</label>
-                                    <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                                    <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    <label for="" class="sr-only"> Name (Team Captain)*</label>
+                                    <input type="text" class="form-control" name="player1" placeholder="Name*" required>
                                 </div>
                                 <div class="form-group">
                                     <label for="" class="sr-only">Contact No.*</label>
@@ -249,1174 +276,18 @@
                                     <label for="" class="sr-only">College / University Roll No</label>
                                     <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
                                 </div>
-
-                            </div>
-                            <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 2 Name*</label>
-                                    <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.*</label>
-                                    <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name*</label>
-                                    <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                                </div>
-                            </div>
-
-                            <div class="col-md-3">
-
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 3 Name</label>
-                                    <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.</label>
-                                    <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name</label>
-                                    <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                                </div>
-
-                            </div>
-
-                            <div class="col-md-3">
-
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 4 Name</label>
-                                    <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.</label>
-                                    <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name</label>
-                                    <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
-                                </div>
                             </div>
                             <div class="clearfix"></div>
-
                             <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+
                         </form>
                     </div>
                 </div>
 
             </div>
-        </div>    
-        <hr class="divider">
-       
-         
-        
-<div class="row competition">
-    <div class="col-md-12">
-        <h2>Schedio - Student Design Comeptition<br>Applied Engineering Challenge </h2>
-        <p>Schedio is an Applied Engineering Challenge, wherein students are required to design and specify an engineering solution for any of the three sustainability issues that India is facing currently – National Security, economy or environment. The solutions should be affordable, maintainable, and effective. This is an exhibition-cum-competition wherein the participating teams get an opportunity and platform to show their designed Drones, which could help India in tackling its 3 major sustainability issues – National Security, economy and environment.<br>
-            The aim for this competition is to encourage student creativity and innovation. This competition is perfect for students who want to invent or optimize technologies with the motive to solve sustainability issues of the county. This design competition not only tests the participant’s technical expertise, but also challenges the participants on conception and communication of details in order to share this technology with developing economies as well as the non-engineering community. 
-            <br>
-            <br>
-            Team Size: 2-4;<br>
-            Number of Rounds: 2;<br> Round 1: Submission of Excutive Summary;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges on campus during Radix
-        </p>
-        <div class="col-md-3">
-            <h3>Timeline</h3>
-            <p>Last Date of registration and submission of entries: <br>Round 1: 24 January 2016<br> Round 2: 6 February 2016<br>
-                Deadline extended: NO!<br>
-                Declare Results – Shortlist of final 3 teams: 29 January 2016 </p>
         </div>
-        <div class="col-md-3">
-            <h3>Prizes</h3>
-            <p>Winner: Rs. 15,000/-<br>
-                1st Runner-Up: Rs. 8,000/-<br>
-                2nd Runner-Up: Rs. 5,000/-<br>
-                Other: Opportunity for funding by VC to the winning team; The winning team will get a Live Project opportunity with WitWorks
+    </section><!--/#explore-->
 
-            </p>
-        </div>
-        <div class="col-md-12">
-            <h3>Rules</h3>
-            <p>Team Size: 2-4 members<br>
-                The team members have to be from the same college/organisation<br>
-
-                Details required for executive summary:<br>
-                1.	The problem being addressed<br>
-                2.	The initiative/idea<br>
-                3.	Details of the execution plan<br>
-                4.	Feasibility and Sustainability of the idea<br>
-                5.	Magnitude of Impact on the Society<br>
-                6.	Novelty of the idea<br>
-
-                Format:<br>
-                Maximum number of pages allowed: 2 (excluding tables/ graphs/ appendices).<br>
-                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
-                The participants should furnish the following details about each of the team members on the cover page:<br>
-                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-
-                Naming convention for E-mail subject and PDF: “Nirvaadh || Schedio – Executive Summary || Team Name || Institute Name<br>
-                Register your team at (link) and then Email us your executive summary(soft copy) in PDF format at samarpan@iimranchi.ac.in before January 24, 2016 (23:59:59)<br>
-                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
-            </p>
-        </div>
-        <div class="clearfix"></div>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register1">
-            <div class="well">
-
-                <form name="Schedio">
-                    <p>Team Competition: 2-4 members</p>
-                <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team Name*</label>
-                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    
-                    </div>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 2 Name*</label>
-                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                   
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 3 Name</label>
-                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                    </div>
-
-                    </div>
-                    
-                    <div class="col-md-3">
-
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 4 Name</label>
-                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-                    <div class="clearfix"></div>
-
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                </form>
-            </div>
-        </div>
-
-    </div>
-    </div>    
-    <hr class="divider">
-    
-
-        <div class="row competition">
-            <div class="col-md-12">
-                <h2>Paper Presentation</h2>
-                <p>Topic: Impact of CSR on consumer behavior<br>
-                    
-                    <br>
-                    <br>
-                    Team Size: 1-2;<br> Number of Rounds: 2;<br>  Round 1: Submission of full paper;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges, on campus during Radix
-                </p>
-                <div class="col-md-3">
-                    <h3>Timeline</h3>
-                    <p>Last Date of registration and submission of entries: <br>Round 1: 24 January 2016<br> Round 2: 6 February 2016<br>
-                        Deadline extended: NO!<br>
-                        Declare Results – Shortlist of final 3 teams: 29 January 2016 </p>
-                </div>
-                <div class="col-md-3">
-                    <h3>Prizes</h3>
-                    <p>Winner: Rs. 15,000/-<br>
-                        1st Runner-Up: Rs. 8,000/-<br>
-                        2nd Runner-Up: Rs. 5,000/-<br>
-                        Other: Top 3 papers will be published in the annual Samarpan magazine
-
-                    </p>
-                </div>
-                <div class="col-md-12">
-                    <h3>Rules</h3>
-                    <p>Team Size: 1-2 members <br>
-                        The team members must be from the same college/organisation <br>
-                        The word count should not exceed 2000 words (excluding tables/ graphs/ appendices). <br>
-                        Font: Times New Roman, Font size: 12, Line spacing: 1.5 <br>
-                        References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style. <br>
-                        The paper must be an original piece of work and must not have been submitted earlier elsewhere <br>
-                        Plagiarism will strictly lead to disqualification. <br>
-                        The participants should furnish the following details about each of the team members on the cover page: <br>
-                        Name, E-Mail address, Mobile number, Name of institute, Team Name <br>
-                        Register your team and then Email us your paper(soft copy) in PDF format at samarpan@iimranchi.ac.in before January 24, 2016 (23:59:59) <br>
-                        Naming convention for E-mail subject and PDF: “Nirvaadh || Paper || Team Name (or individual name) <br>
-                        In case of any disputes, the decision of the judges and the organizers shall be final and binding.
-                        <br>
-                    </p>
-                </div>
-                <div class="clearfix"></div>
-                <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
-                    Register here
-                </a>
-                <div class="collapse" id="register1">
-                    <div class="well">
-
-                        <form name="paper">
-                            <p>Team Competition: 1-2 members</p>
-                            <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team Name*</label>
-                                    <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                                    <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.*</label>
-                                    <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name*</label>
-                                    <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                                </div>
-
-                            </div>
-                            <div class="col-md-3">
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Team member 2 Name</label>
-                                    <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name ">
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">Contact No.</label>
-                                    <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No." >
-                                </div>
-                                <div class="form-group">
-                                    <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" name="palyer2_email" placeholder="Email id">
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College/Organisation name</label>
-                                    <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" >
-                                </div>
-                                <div class="form-group">
-                                    <label for="" class="sr-only">College / University Roll No</label>
-                                    <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-
-                            <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                        </form>
-                    </div>
-                </div>
-
-            </div>
-        </div>    
-        <hr class="divider">
-    
-    
-    
-<div class="row competition">    
-    <div class="col-md-12">
-        <h2>Article Writing Competition
-        </h2>
-        <p>Topic: Strategic CSR for manufacturing industry
-
-            Language: English, Hindi, Spanish, French<br>
-    
-        <br>
-           <br>
-            Team Size: 1-3; <br> Number of Rounds: 1; <br> Round 1: Submission of full Article 
-            
-                    </p>  
-        <div class="col-md-3">
-        <h3>Timeline</h3>
-                <p>
-
-                Last Date of Submission: 24th January 2016
-<br>
-                    Declare Results: Shortlist of final 3 teams: 29 January 2016
-<br>
-                **PUBLSHED IN MAGAZINE**</p>
-        </div>
-        <div class="col-md-3">
-            <h3>Prizes</h3>
-            <p>Winner: Rs. 15,000/-<br>
-
-                1st Runner-Up: Rs. 8,000/-<br>
-
-                2nd Runner-Up: Rs. 5,000/-<br>
-                Top 3 articles will be published in the annual Samarpan magazine</p>
-        </div>
-        <div class="col-md-12">
-            <h3>Rules</h3>
-            <p>Team Size: 1-2 members<br>
-                The team members must be from the same college/organisation<br>
-                The word count should not exceed 2000 words (excluding tables/ graphs/ appendices).<br>
-                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the article must be appropriately quoted. Please follow APA reference style.<br>
-                The article must be an original piece of work and must not have been submitted earlier elsewhere<br>
-                Plagiarism will strictly lead to disqualification.<br>
-                The participants should furnish the following details about each of the team members on the cover page:<br>
-                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-                Register your team and then Email us your article (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 24, 2016 (23:59:59)<br>
-                Naming convention for E-mail subject and PDF: “Nirvaadh || Article || Team Name (or individual name)<br>
-                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
-                <br>
-            </p>
-        </div>
-        <div class="clearfix"></div>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register2" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register2">
-            <div class="well">
-                <form name="article">
-                    <p> Individual or Team Competition: 1-3 members</p>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team Name*</label>
-                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 2 Name</label>
-                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name ">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.">
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-                    
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 3 Name</label>
-                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button>
-                    <span class="error-text"></span>
-                </form>
-            </div>
-        </div>
-
-    </div>
-    </div>
-    <hr class="divider">
-
-<div class="row competition"> 
-    <div class="col-md-12">
-        <h2>Short Film Making
-        </h2>
-        <p>Theme: Replacing 'viklang' with 'Divyang'.<br>
-            Viklang: handicapped<br>
-            Divyang: people with extraordinary capabilities<br>
-            For ages we have often used the word ‘viklang’, which is a hindi word for the differently abled people. However, most of the times it has been seen that such people have capabilities which even normal people do not have. Thus, the aim for this short film making competition is to celebrate the saga of such ‘Divyang’ personalities.<br>
-            
-            <br>
-            Team Size: 1-3;<br> Number of Rounds: 1;<br> Round 1: Submission of the full film and a upto - 100 word write-up about the film; 
-      </p>
-        <div class="col-md-3">
-            <h3>Timeline</h3>
-            <p>Last date of registration and submission: 26th January 2016
-<br>
-                Deadline extension: NO!
-<br>
-                Declare Results –Best 3 films: 29 January 2016</p>
-        </div>
-        <div class="col-md-3">
-            <h3>Prizes</h3>
-            <p>Winner: Rs. 8,000/-<br>
-
-                1st Runner-Up: Rs. 5,000/-<br>
-
-                2nd Runner-Up: Rs. 3,000/-<br>
-                Other: Top 10 films will be uploaded on Samarpan's youtube channel; The Best Film will be shown during the Excelsior</p>
-        </div>
-        <div class="col-md-12">
-            <h3>Rules</h3>
-            <p>Theme: Divyang (Differently Abled people)<br>
-                Team Size: 1-3 members<br>
-                The team members have to be from the same institute.<br>
-                Only one entry is allowed per team.<br>
-                A participant can be a part of only one team.<br>
-                Duration of the film: 5-7min long<br>
-                The participants also have to submit a up to 100 words write-up, explaining the concept / or message of their film.<br>
-
-                Register your team (link) and then upload your video on YouTube and share the link of the same and write-up (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 26, 2016 (23:59:59)<br>
-
-            
-
-
-                All entries become the property of IIM Ranchi. Entrants, without any compensation from IIM Ranchi, grant permission to IIM Ranchi to use their names, likenesses and entries for promotional purposes related to IIM Ranchi and its activities. By submitting an entry, entrants (i) represent that their entries constitute original works of creativity that do not violate the property rights of any other person, and (ii) grant IIM Ranchi the right to exhibit, distribute, televise and otherwise use the entries in various media.<br>
-
-
-
-                Format for write-up:<br>
-                Maximum number of words allowed: 100<br>
-                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-                The participants should furnish the following details about each of the team members on the cover page:<br>
-                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-                Naming convention for E-mail subject and PDF: “Nirvaadh || Short Film Making || Team Name (or individual name) || Institute Name<br>
-            </p>
-        </div>
-        <div class="clearfix"></div>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register3" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register3">
-            <div class="well">
-                <form name="documentary">
-                    <p>Team Competition: 1-3 members</p>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team Name*</label>
-                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 2 Name</label>
-                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name " >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 3 Name</label>
-                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                </form>
-            </div>
-        </div>
-
-    </div>
-</div>
-    <hr class="divider">
-    
-<div class="row competition">
-    <div class="col-md-12">
-        <h2>Battle Bots        </h2>
-        <p>#BattleGroundOfRobots<br>
-            BattleBots is the Battle Ground of Robots, wherein the participating teams will enter into a battle with their designed robots. It is one-on-one tournament between students designed robots.<br><br>Team Size: 2-4;<br> Number of Rounds: 2;<br> Round 1: Registration;<br> Round 2: Battle Round during Nirvaadh
-
-           <div class="col-md-3">
-            <h3>Timeline</h3>
-               <p>Last Date for Registration: Round 1 (Registration): 1 February 2016<br>
-                Deadline extended:
-                   <br>          Winner declaration: After the battle on 7 February 2016</p>
-        </div>
-        <div class="col-md-3">
-            <h3>Prizes</h3>
-            <p>Winner: Rs. 5,000/-<br>
-
-                1st Runner-Up: Rs. 3,000/-<br>
-
-                2nd Runner-Up: Rs. 2,000/-</p>
-        </div> 
-        <div class="col-md-12">
-            <h3>Rules</h3>
-            <p>Team Size: 2-4 members<br>
-
-                The team members have to be from the same or different institution<br>
-
-                General Rules: 
-                <br>
-                The competition will be played on a knock-out basis consisting of 2-3 players at a time . <br>
-
-                The maximum duration of each round will be 5 minutes. Any team that is not ready at the specified will be disqualified from the competition automatically. 
-                <br>
-                1. The machine would be checked for its safety before the competition and would be discarded if found unsafe for other participants and spectators. <br>
-
-                2. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered 
-                <br>
-                3. Violation of any the above rules will lead to disqualification. <br>
-
-                4. Judges' decision shall be treated as final and binding on all. <br>
-
-                Criteria for Triumph: <br>
-
-                1. A robot is declared victorious if its opponent is immobilized or out of the arena. <br>
-
-                2. A robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. <br>
-
-                3. If both robots survive the five minutes at that point, the robot with the higher hit points <br>
-
-                4. The winner moves on, the loser is eliminated from the tournament. <br>
-
-                Safety Rules: <br>
-
-                1. Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing. <br>
-
-                2. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. <br>
-
-                3 . All weapons must have a safety cover on any sharp edges 
-                <br>
-                Specifications:<br> 
-
-                Problem statement: Design and construct a remote or wired controlled bot capable of fighting a one on one tournament. 
-                <br>
-                Dimensions and Fabrications: 
-
-                <br>• The bot should fit in a box of dimension 75cm x 75 cm x 75 cm (lxbxh) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint. 
-
-                <br> Weight of Robot: 50kg
-
-                <br> Mobility: All bots must have easily visible and controlled mobility in order to compete. Methods of  mobility include: <br>
-
-                • Rolling (wheels, tracks or the whole robot). <br>
-
-                • Jumping and hopping is not allowed. <br>
-
-                • Flying (using airfoil, helium balloons, ornithopters, etc.) is not allowed. <br>
-
-                Robot Control Requirements: <br>
-
-                • If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event. <br>
-
-                • If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. <br>
-
-                • Remote control systems from toys might be used. Remote control systems available in the market may also be used. <br>
-
-                Battery and Power : <br>
-
-                • The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). <br>
-
-                • Working voltages must not exceed 24V DC (mean voltage) at any point of time. <br>
-
-                • All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. <br>
-
-                • All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification. <br>
-
-                • Battery Eliminators are allowed and power source would be available at the venue for the eliminators. 
-                <br>
-                Motors: <br>
-
-                The robot should move as fast as possible around the arena with the help of motors. <br>
-
-                • DC motors and stepper motors (12V-24V) can be used as per the design of bots</p>
-        </div> 
-        <div class="clearfix"></div>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register4" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register4">
-            <div class="well">
-                <form name="battlebots">
-                    <p>Team Competition: 2-4 members</p>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team Name*</label>
-                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-                    
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 2 Name*</label>
-                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 3 Name</label>
-                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 4 Name</label>
-                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                </form>
-            </div>
-        </div>
-
-    </div>
-    </div>
-    <hr class="divider">
-  
-<div class="row competition">  
-<div class="col-md-12">
-        <h2>#BeYourOwnBoss            </h2>
-    <p>Entrepreneurship competition involving inception of a small enterprise and CSR.<br>
-        Participants will get space to put up their stall (food, games, handicrafts, etc.) at a nominal price of Rs.100 (which will be used for skill development workshops of ‘Sahayak-Vikas’ initiative of Samarpan Club, the CSR club of IIM Ranchi). 2% of the profit generated by participants will be treated as the team’s contribution towards the Accessible India Campaign of Samarpan Club, the current aim for which is to make hearing aids available for the differently abled students of Kshitish School for deaf and dumb. The top 3 business models will be rewarded.<br>
-        For more details about ‘Sahayak-Vikas’ initiative and Accessible India Campaign, visit: (link)
-        <br>
-        <br>
-        Team Size: 2-4; <br> Number of Rounds: 2; <br> Round 1: Submission of Executive Summary; <br> Round 2: Execution during Nirvaadh; <br> Round 3: Submission of Execution Details
-    </p>
-    <div class="col-md-3">
-        <h3>Timeline</h3>
-        <p>Last date for registration: Round 1:  25 January 2016;<br> Round 2: 6-7 February 2016;<br> Round 3: 10 February 2016<br>
-
-            Result: Final BYOB participants: 29 January 2016; <br>Top 3 models: 15 February 2016</p>
-    </div>
-    <div class="col-md-3">
-        <h3>Prizes</h3>
-        <p>Winner: Rs. 5,000/-<br>
-
-            1st Runner-Up: Rs. 3,000/-<br>
-
-            2nd Runner-Up: Rs. 2,000/-
-            <br> Other: Exciting Goodies and Gift Hampers!</p>
-    </div>
-    <div class="col-md-12">
-        <h3>Rules</h3>
-        <p>Team Size: 2-4 members<br>
-            The team members have to be from the same institute.<br>
-            Only one entry is allowed per team.<br>
-            A participant can be a part of more than one team<br>
-            The participants will have to bear the input cost on their own.<br>
-            One booth will be given at Rs. 100/- per team.<br>
-            Facilities at the booth provided by us (included in the registration fee):<br>
-            Electricity Supply<br>
-            Lights – 2<br>
-            Table<br>
-            Chairs 
-            <br>
-
-            The participants will have to arrange all the input material on their own. You can contact the organisers if you wish to know about the availability of certain things in Ranchi. However, the participants must take care of all the arrangements and set up on their own.<br>
-            A participant can be a part of more than one team.<br>
-            A space will be provided at IIM Ranchi campus during Nirvaadh from 6-7 February 2016<br>
-            Register your team (link) and then Email us your executive summary (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 25, 2016 (23:59:59)<br>
-
-            Registration fee: Rs. 100/- (Use of this money: installation cost + Sahayak Vikas). <br>
-
-
-            Details required for executive summary:<br>
-            A brief description about the product(s)/service(s) you want to offer<br>
-            Feasibility of the idea<br>
-            Space required for set-up<br>
-
-            Format:<br>
-            Maximum number of pages allowed: 2 (excluding tables/ graphs/ appendices).<br>
-            Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-            The participants should furnish the following details about each of the team members on the cover page:<br>
-            Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-            Naming convention for E-mail subject and PDF: “Nirvaadh || BYOB – Executive Summary || Team Name || Institute Name<br>
-
-            Details required for the final B-plan – PowerPoint presentation:<br>
-            Product description: What is the product/service?<br>
-            Competitor analysis: Who are the competitors and what are their strengths and weaknesses?<br>
-            Marketing and sales plan: What is the target market? What are the strategies for distribution, sales, pricing and promotion?<br>
-            Financials: Input Cost, Revenue Generated, Profit earned<br>
-            CSR: Total amount of money donated for hearing aids of the differently abled students of Kshitish School for deaf and dumb.<br>
-
-            Maximum number of slides allowed: 10 (excluding tables/ graphs/ appendices).<br>
-            Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
-            All references used must be appropriately quoted. Please follow APA reference style.<br>
-            The participants should furnish the following details about each of the team members on the cover slide:<br>
-            Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
-            Naming convention for E-mail subject and PDF: “Nirvaadh || BYOB – Full B-Plan || Team Name || Institute Name<br>
-            Email us full BYOB plan (soft copy) in PDF format at samarpan@iimranchi.ac.in before January 25, 2016 (23:59:59)<br>
-            In case of any disputes, the decision of the judges and the organizers shall be final and binding.<br>
-
-
-
-        </p>
-    </div> 
-    
-    <div class="clearfix"></div>        
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register5" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register5">
-            <div class="well">
-                <form name="boss">
-                    <p>Team Competition: 2-4 members</p>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team Name*</label>
-                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-                    
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 2 Name*</label>
-                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 3 Name</label>
-                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only">Team member 4 Name</label>
-                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.</label>
-                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name</label>
-                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-
-                   <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                </form>
-            </div>
-        </div>
-
-    </div>
-</div>  
-    <hr class="divider">
-    
-<div class="row competition"> 
-        <div class="col-md-12">
-        <h2>Photography Competition
-            </h2>
-            <p> Theme: Disappearing professions and career options for these professionals.<br>
-                Each participant has to submit 2 photographs – one showing a disappearing profession and the other one showing an alternate career option for that professional.<br>
-                Published: Samarpan Annual Magazine<br>
-                Exhibition: During Lunch and Tea-breaks @ Radix (link)
-                <br>
-                <br>Individual Entry;  <br>Number of Rounds: 1;  <br>Round 1: Submission of the 2 photographs
-
-            <div class="col-md-3">
-            <h3>Timeline</h3>
-                <p>Last date of registration & submission: Round 1: 26 January 2016
-<br>
-                    Deadline extension: NO!
-<br>
-                    Declare Results: Best 3 concepts: 29 January 2016</p>
-            </div>
-            <div class="col-md-3">
-                <h3>Prizes</h3>
-                <p>Winner: Rs. 3,000/-
-                    <br>            1st Runner-Up: Rs. 2,000/-
-                    <br>            2nd Runner-Up: Rs. 1,000/-<br>
-                    Top 10 entries will be displayed in exhibition during lunch and tea breaks during Radix; Best 3 entries will be published in the annual Samarpan magazine</p>
-            </div>  
-            <div class="col-md-12">
-                <h3>Rules</h3>
-                <p>Theme: Disappearing professions and career options for these professionals.<br>
-                    Thus, each participant has to submit 2 photographs – one showing a disappearing profession and the other one showing an alternate career option for that professional.<br>
-                    Individual entry.<br>
-                    Only one entry is allowed per participant.<br>
-
-                    Register yourself (link) and then Email us your photographs (soft copy) at samarpan@iimranchi.ac.in before January 26, 2016 (23:59:59)<br>
-
-                    Naming convention for E-mail subject: “Nirvaadh || Photography || Individual Name || Institute Name<br>
-                    Naming convention for Photograph 1 – Disappearing profession: “Nirvaadh || Photography – Disappearing Profession || Individual Name || Institute Name<br>
-                    Naming convention for Photograph 1 – Disappearing profession: “Nirvaadh || Photography – Alternate Career Option || Individual Name || Institute Name<br>
-
-                    SUBMISSION OF ENTRIES<br>
-                    2.1 Images of not more than 10 MB in size must be submitted online and the organiser may request for higher resolution images
-                    subsequently. The original images should be at least 3 MB in size as winning images will be printed and exhibited. Shortlisted finalists
-                    will be notified via email to submit their original images within a week for judging.<br>
-                    2.2 Submitted images should be in JPEG format and at least 1,600 pixels wide for a horizontal image or 1,600 pixels tall for a vertical
-                    image.<br>
-                    2.3 Each participant must submit two (2) images.<br>
-                    2.4 Digital manipulation that distorts the reality of the images will not be allowed. Only basic enhancements such as sharpening, contrast
-                    adjustment, or simple cropping will be allowed.<br>
-                    2.5 The organiser reserves the right to reject images with incomplete details required under the photo submission page. The submission
-                    deadline is 26 January, 2016, before 11.59pm.<br>
-                    2.6 All submitted images are non-returnable. The file name for each image should be clearly labelled with the participant’s name, and
-                    where the image was taken. E.g. Rishabh Dhir Ranchi<br>
-                    2.7 Participants are entirely responsible for all entry-related costs.<br>
-                    3. COPYRIGHT/INTELLECTUAL PROPERTY<br>
-                    3.1 Each image submitted must be the original and unpublished work of the participant who must also be its copyright owner.<br>
-                    3.2 The participant shall retain copyright to the image entered for the competition.<br>
-                    3.3 By submitting an image for the competition, the participant will be regarded as having granted the organiser the right to use the
-                    image in print, broadcast and/or electronic media without any fee payment, for the purposes of promoting the competition
-                </p>
-            </div>
-<div class="clearfix"></div>
-        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register6" aria-expanded="false" aria-controls="collapseExample">
-           Register here
-        </a>
-        <div class="collapse" id="register6">
-            <div class="well">
-                <form name="photography">
-                    <p>Individual Competition</p>
-                    <div class="col-md-3">
-                    <div class="form-group">
-                        <label for="" class="sr-only"> Name (Team Captain)*</label>
-                        <input type="text" class="form-control" name="player1" placeholder="Name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">Contact No.*</label>
-                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
-                    </div>
-                    <div class="form-group">
-                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College/Organisation name*</label>
-                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="" class="sr-only">College / University Roll No</label>
-                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
-                    </div>
-                    </div>
-                    <div class="clearfix"></div>
-                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
-                    
-                </form>
-            </div>
-        </div>
-
-        </div>
-    </div>
-    <hr class="divider">
-</div>
-</section><!--/#commpetition-feed-->
 
 
 
@@ -1436,89 +307,112 @@
         </div>    
     </section>
 
-
-    <section id="about-event">
+    <section id="funathon">
         <div class="container">
-               <div class="row">        
+            <div class="row">        
                 <div class="col-sm-6">
                     <h2>About Funathon and Walkathon</h2>
                     <p>
-                        Fun-a-thon is a 10km running competition – Run for a cause<br>
-                        Walk-a-thon is a 5km walking competition – Walk for a cause<br>
-                        There are 4 causes which we aim to address through this event:<br>
-                        •	Child Rights<br>
-                        •	Women Rights<br>
-                        •	Human Trafficking<br>
-                        •	Health and Fitness<br>
 
-                        This is the second season of Funathon and Walkathon. The first Season was held on 22nd February 2015. Check it out (link to ‘Funathon and Walkathon -1.0’ in initiatives so far)<br>
-                        This season of Funathon and Walkathon is also a fundraising event to support the construction of Yuwa's new campus. (Yuwa is an NGO in Ranchi, which works for the upliftment and empowerment of girls of this state. For more details about <a href="http://www.yuwa-india.org" target="_blank">yuwa</a><br>
-                        So choose your cause, and be a part of Funathon, be a part of Nirvaadh <br>
+                        Funathon and Walkathon is a running followed by walking competition, organized by Samarpan (the CSR club of IIM Ranchi) in association with Sankriya (the Operations club of IIM Ranchi).<br>
 
-                        Timeline:<br>
-                        4:30 am - Registration begins (for funathon)<br>
-                        5:30 am - Registration ends<br>
-                        5:40 - 6:00am - Zumba (for funathon participants)<br>
-                        6:10 am - Funathon begins (10km)<br>
+                        We are organizing this Funathon as a fund raising event to support the construction of Yuwa’s new campus.<br>
 
-                        5:30 am - Registration begins (for Walkathon)<br>
-                        6:30 am - Registration ends<br>
-                        6:40 - 7:00 am - Zumba (for Walkathon participants)<br>
-                        7:10 am - Walkathon begins (5km)<br>
+                        <img src="images/event/yuwa-logo.png">
+                        <br>
+                        Yuwa uses girls’ team sports as a platform for social development in rural India. Yuwa operates in Jharkhand. Here, girls are rarely given a chance to choose their own future. But the girls of Yuwa are rewriting their script—and it all starts with football.
+                        For more details, visit:-
+                        <a style="color:white; font-weight:400;" href="http://www.yuwa-india.org" target="_blank">http://www.yuwa-india.org</a><br>
+                      <br>
 
-                        8:30 am - Prize Distribution and Address by chief guest<br>
-                        9:00 am – Musical Band performance
 
-                    </p>
+                    </p>    
                 </div>  
 
                 <div class="col-sm-6">
-                    <h2>Athletes / Sportsperson</h2>
-                    
-                    <h2 class="coming-soon">Coming Soon</h2>
-<!--
+                    <h2>Guest of honour</h2>
                     <div class="row speaker">
-                        <div class="col-md-3 col-sm-5 col-xs-3">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
                             <img class="img-responsive" src="images/user.png">
                         </div>
                         <div class="col-md-9 col-sm-7 col-xs-9">
-                            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
+                            <p><strong>Commander Abhilash Tomy </strong><br>He is an Indian Naval Officer. He is the first Indian, second Asian, and seventy-ninth person to complete a solo, unassisted, non-stop circumnavigation under sail.</p>
                         </div>
                     </div>
                     <div class="row speaker">
-                        <div class="col-md-3 col-sm-5 col-xs-3">
+                        <div class="col-md-2 col-sm-5 col-xs-3">
                             <img class="img-responsive" src="images/user.png">
                         </div>
                         <div class="col-md-9 col-sm-7 col-xs-9">
-                            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
+                            <p><strong>Disha Malhotra </strong><br>Founder and CEO - Foot and Ball                            </p>
                         </div>
                     </div>
-                    <div class="row speaker">
-                        <div class="col-md-3 col-sm-5 col-xs-3">
-                            <img class="img-responsive" src="images/user.png">
-                        </div>
-                        <div class="col-md-9 col-sm-7 col-xs-9">
-                            <p><strong>Mr. Abc</strong><br>A short brief of the speaker who will be attending the event.</p>
-                        </div>
-                    </div>
--->
+                   
                 </div>
 
+
+
+            </div>
+
+
+            <div class="theme row facet" id="fun">
+                <h2 class="centered" style="color:#222;">
+                    Objectives
+                </h2> 
+                <div class="col-sm-2 col-sm-offset-1">  
+                    <img class="img-responsive" src="images/event/yuwa-logo.png">
+                    <p>Raise funds for construction of Yuwa's new campus</p>
+                </div>
+                <div class="col-sm-2">
+                    <img class="img-responsive" src="images/event/awareness.png">
+                    <p>Raise awareness about child rights</p>
+                </div>
+                <div class="col-sm-2">
+                    <img class="img-responsive" src="images/event/human.png">
+                    <p>Raise awareness about human trafficking</p>
+                </div>
+                <div class="col-sm-2">
+                    <img class="img-responsive" src="images/event/girl.png">
+                    <p>Raise awareness about women's rights</p>
+                </div>
+                <div class="col-sm-2">
+                    <img class="img-responsive" src="images/event/fitness.png">
+                    <p>Promote health and fitness</p>
+                </div>
             </div>
             
+            <h3>Timeline:</h3>
+            <p>
+                4:30 am - Registration begins (for funathon) >><span> 5:30 am - Registration ends</span>  >><span> 5:40 - 6:00am - Zumba (for funathon participants)</span> >> <span> 
+                6:10 am - Funathon begins (10km)</span><br><br>
+
+                5:30 am - Registration begins (for Walkathon) >> <span>
+                6:30 am - Registration ends</span> >> <span>
+                6:40 - 7:00 am - Zumba (for Walkathon participants)</span> >> <span> 
+                7:10 am - Walkathon begins (5km) </span> >> <span>
+                8:30 am - Prize Distribution and Address by chief guest </span> >> 
+                9:00 am – Musical Band performance
+            </p>
+
+       <br><br>
+            <h2>Why the name ‘Funathon’?</h2>
+            <p>We believe that one should have fun while doing something good! This year, in Funathon and Walkthon -2.0, we will take you on a journey to the amazing and unexplored world of Jharkhand! So, don’t just run, but Run for a cause and have fun while doing good </p>
         </div>
     </section><!--/#-->
 
-
     <section id="media">
-        <h2>Competitions</h2>
         <div class="container">
             <div class="row competition">
                 <div class="col-md-12">
+                    <p> It would be awesome if you could contribute towards this noble cause </p>
                     <h2>Fun-a-thon</h2>
                     <p>8 km <strong>run</strong> <br>
                       
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail30" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail30">
 
                     <div class="col-md-3">
                         <h3>Timeline</h3>
@@ -1547,10 +441,65 @@
                         2nd Runner Up: Prizes worth Rs. 1000<br>
                         Participation Medal given to all participants</p>
                     </div>
-
+                    </div>
 
                     <div class="clearfix"></div>
-                    <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
+                    <br>
+                    <div class="col-sm-6">
+                        <p>
+                            Help Yuwa in its endeavors<br>
+                            Registration fee – Rs. 300/-<br>
+                            This money will entirely go to Yuwa<br>
+                            Moreover, you get a kit filled with exciting goodies and gift vouchers as reward for helping </p>
+                        <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            For free registrations, <br>
+                        </p>
+
+
+                        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register50" aria-expanded="false" aria-controls="collapseExample">
+                            Register here
+                        </a>
+
+
+                        <div class="collapse" id="register50">
+                            <div class="well">
+                                <form name="funathon">
+                                    <p>Individual Competition</p>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="" class="sr-only"> Name (Team Captain)*</label>
+                                            <input type="text" class="form-control" name="player1" placeholder="Name*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">Contact No.*</label>
+                                            <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                            <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">College/Organisation name*</label>
+                                            <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">College / University Roll No</label>
+                                            <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>  
+                    <div class="clearfix"></div>
+                    <p  style="text-align:center">Hope to see you there on 7th Feb., Sunday morning, at Morabadi Stadium!<br> Come and be a part of a revolution.
+                    </p>
         
                 </div>
             </div>
@@ -1559,7 +508,11 @@
                 <div class="col-md-12">
                     <h2>Walk-a-thon</h2>
                     <p>5 km <strong>walk</strong> <br>
-                        </p>
+                    </p>
+                    <a class="details" data-toggle="collapse" href="#detail31" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail31">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>Registrations start: 6:30 am<br>
@@ -1588,12 +541,108 @@
                         2nd Runner Up: Prizes worth Rs. 1000<br>
                         Participation Medal given to all participants</p>
                     </div>
+                    </div>
 
-                    <div class="clearfix"></div>          <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
+
+                    <div class="clearfix"></div>
+                    <br>
+                    <div class="col-sm-6">
+                        <p>
+                            Help Yuwa in its endeavors<br>
+                            Registration fee – Rs. 300/-<br>
+                            This money will entirely go to Yuwa<br>
+                            Moreover, you get a kit filled with exciting goodies and gift vouchers as reward for helping </p>
+                        <a href="https://www.payumoney.com/customer/users/paymentOptions/#/C06CEE42EA7F710D32118E263E1DE7EC/samarpanclub/114281" target="_blank"><img alt="" src="https://www.payumoney.com/media/images/payby_payumoney/buttons/payfee-green-large.png" /></a> 
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            For free registrations, <br>
+                        </p>
+
+
+                        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register51" aria-expanded="false" aria-controls="collapseExample">
+                            Register here
+                        </a>
+
+
+                        <div class="collapse" id="register51">
+                            <div class="well">
+                                <form name="walkathon">
+                                    <p>Individual Competition</p>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="" class="sr-only"> Name (Team Captain)*</label>
+                                            <input type="text" class="form-control" name="player1" placeholder="Name*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">Contact No.*</label>
+                                            <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                            <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">College/Organisation name*</label>
+                                            <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="sr-only">College / University Roll No</label>
+                                            <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+
+                                </form>
+                            </div>
+                        </div> 
+                    </div> 
+                    <div class="clearfix"></div>
+                    <p style="text-align:center">Hope to see you there on 7th Feb., Sunday morning, at Morabadi Stadium!<br> Come and be a part of a revolution.
+                    </p>
                     
                 </div>
             </div>
             <hr class="divider">
+
+            <div class="clearfix"></div>
+            <p>Support the efforts and struggle of these children</p>
+            <br>
+            <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register101" aria-expanded="false" aria-controls="collapseExample">
+                Register here
+            </a>
+            <div class="collapse" id="register101">
+                <div class="well">
+                    <form name="support">
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="" class="sr-only"> Name</label>
+                                <input type="text" class="form-control" name="player1" placeholder="Name*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">Contact No.*</label>
+                                <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College/Organisation name*</label>
+                                <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="sr-only">College / University Roll No</label>
+                                <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+
+                    </form>
+                </div>
+            </div>
         </div>
     </section><!--/#-->
 
@@ -1601,6 +650,7 @@
 
     <section class="event-header3" id="excelsior">
         <div class="container">
+
             <div class="row">
                 <h2>Excelsior</h2>
                 <p><strong> 7th February 2016</strong> | Sunday | 4 – 7 pm | Morabadi Stadium
@@ -1611,51 +661,30 @@
                 </h3>
                 <p><strong></strong></p>
             </div>
-        </div>    
-    </section>
-
-
-    <section id="about-event">
-        <div class="container">
             <div class="row">       
                 <div class="col-md-12 col-sm-5">
                     <h2>About Excelsior</h2>
-                    <p>
-                        It gives the children of NGOs an opportunity and a platform to showcase their talent in front of the world, especially to the the corporates who channel their CSR money to these organisations. <br>
+                    <p><strong>What is Excelsior?</strong><br><br>
 
-                        Timeline:<br>
-<!--
-                        4 – 6 pm – Football Matches between IIM Ranchi, Yuwa and <a href="http://www.agnelgreaternoida.org/Agnel_balBhawan.aspx" target="_blank">Fr. Agnel Balbhawan </a><br>
+                        Excelsior<br>
+                        ever upward<br>
+                        <strong>  <span style="font-style: italic"> a platform for the ingenious, capable and adroit.</span></strong><br><br>
 
-                        6 – 7 pm – Cultural Programs and Felicitation (SelfieSuperStar and the Nirvaadh Cups and the True Nirvaadhi award)<br>
--->
-                        1.	Welcome Dance by the differently abled students of Kshitish School for deaf and dumb<br>
-                        2.	Football Matches<br>
-                        •	Girls: Yuwa Vs. Fr. Agnel Balbhawan<br>
-                        •	Boys: IIM Ranchi Vs. Fr. Agnel Balbhawan<br>
-                        3.	Musical Skit by Yuwa Girls (about their life and their association with Yuwa)<br>
-                        4.	Musical Band Performance by the students of Fr. Agnel Balbhawan
-
-
+                        It gives the children of NGOs an opportunity and a platform to showcase their talent in front of the world, especially to the the corporates who channel their CSR money to these organisations. It is a one-of-a-kind event, to support the struggle and the efforts of the less fortunate, yet amazing children of our nation. <br>
                     </p>
                 </div>  
-            </div>
-        </div>
-    </section><!--/#-->
-
-
-    <section id="media">
-        <h2>Events</h2>
-        <div class="container">
-            <div class="row competition">
-                <div class="col-md-3">
+            </div>   
+            <div class="row  welcome centered">
+                <div class="col-sm-3 col-md-offset-1 ">
+                    <img class="img-responsive" src="images/event/dance.png">
                     <h2>Welcome Dance </h2>
 
                     <p> by the differently abled students of <strong>Kshitish School</strong>  for deaf and dumb
                     </p>
 
                 </div>
-                <div class="col-md-3">
+                <div class="col-sm-3">
+                    <img class="img-responsive" src="images/event/football.jpg">
                     <h2>Football Matches</h2>
 
                     <p> <strong> (Girls)</strong> 
@@ -1666,32 +695,1352 @@
                     </p>
 
                 </div>
-                <div class="col-md-3">
-                    <h2>Musical Skit performance
-                    </h2>
+                <div class="col-sm-3">
+                    <img class="img-responsive" src="images/event/music.jpg">
+                    <h2 style="text-align:center">Musical Skit performance  </h2>
 
                     <p> by <strong>Yuwa</strong> (about their life and association with Yuwa)
 
                     </p>
 
                 </div>
-                <div class="col-md-3">
+                <div class="clearfix"></div>
+                <div class="col-sm-3 col-sm-offset-3">
+                    <img class="img-responsive" src="images/event/band.jpg">
                     <h2>Musical Band performance
                     </h2>
 
                     <p> by <strong>- By Fr. Agnel Balbhawan
                         </strong>
-
                     </p>
+                </div>
+                <div class="col-sm-3">
+                    <img class="img-responsive" src="images/event/speak.jpg">
+                    <h2>Poem and Skit
+                    </h2>
+
+                    <p><strong>UNICEF</strong> child reporters from government schools will share their success stories (against child marriage/child labour, etc); present a poem and skit.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section><!--/#-->
+
+
+    <section id="events">
+        <h2 id="competition">Competitions</h2>
+        <div class="container">
+            <div class="row competition">
+                <div class="col-md-12">
+                    <h2>P.I.G - Paint It Green: Socially Responsible Business Plan Competition </h2>
+
+                    <a class="details" data-toggle="collapse" href="#detail1" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail1">
+                        <p>P.I.G is a pan-India ‘Socially Responsible Business Plan Competition’ organized by Samarpan – the CSR club of IIM Ranchi. P.I.G is a platform for all aspiring social entrepreneurs who wish to help India in in its ‘Make In India’ and ‘Make For India’ campaign.<br>
+                            Theme: - Clean Energy / Green Energy / Renewable Energy / Smart Energy<br>
+
+                            ‘India has committed for the Paris climate change agreement, that 40 per cent of its total power capacity by 2030 will be based on renewable sources.’
+                            -	According to a ‘Business Standard’ report<br>
+
+                            The rising fuel prices, drastic climate changes, threat to energy security and the need to manage economic growth, have led India to explore the renewable energy avenues with more diligence, as renewable energy offers critical solution to India’s ever increasing energy demand.<br>
+
+                            Thus, this season of P.I.G encourages budding social entrepreneurs to explore the possibilities of Clean, Green and Smart Energy. <br>
+                            Let us make our contribution towards making India energy sufficient 
+                            <br>
+                            <br>
+                            Team Size: 2-4;<br>
+                            Number of Rounds: 2;<br> Round 1: Submission of full B-plan;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges and VCs, on campus during Radix
+
+
+
+
+                        </p>
+
+
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last Date of registration and submission of entries: <br>Round 1: 28 january 2016<br> Round 2: 6 February 2016<br>
+                                Deadline extended: NO!<br>
+                                Declare Results – Shortlist of final 3 teams: 1 february 2016 </p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 15,000/-<br>
+                                1st Runner-Up: Rs. 8,000/-<br>
+                                2nd Runner-Up: Rs. 5,000/-<br>
+                                Other: Opportunity for funding by VC to the winning team
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 2-4 members<br>
+                                The team members have to be from the same institute.<br>
+                                Only one entry is allowed per team.<br>
+                                A participant can be a part of only one team.<br>
+
+                                Details required for the B-plan:<br>
+                                1.	Market need: What problem does the company's product/service solve? How significant a problem is it?<br>
+                                2.	Product description: What is the product/service?<br>
+                                3.	Competitor analysis: Who are the competitors and what are their strengths and weaknesses?<br>
+                                4.	Marketing and sales plan: What is the target market? What are the strategies for distribution, sales, pricing and promotion?<br>
+                                5.	Financial projections: Sources and uses of capital, and projected revenues and expenses<br>
+                                Format:<br>
+                                Maximum number of pages allowed: 20 (excluding tables/ graphs/ appendices).<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
+                                The participants should furnish the following details about each of the team members on the cover page:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || P.I.G – Full B-Plan || Team Name || Institute Name<br>
+                                Email us full B-Plan(soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+                                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register10" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register10">
+                        <div class="well">
+
+                            <form name="paint">
+                                <p>Team Competition: 2-4 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name*</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+
+                                </div>
+
+                                <div class="col-md-3">
+
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 4 Name</label>
+                                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>    
+            <hr class="divider">
+
+
+            <div class="row competition">
+                <div class="col-md-12">
+                    <h2>Schedio - Student Design Comeptition<br>Applied Engineering Challenge </h2>
+
+                    <a class="details" data-toggle="collapse" href="#detail2" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail2">
+                        <p>Schedio is an Applied Engineering Challenge, wherein students are required to design and specify an engineering solution for any of the three sustainability issues that India is facing currently – National Security, economy or environment. The solutions should be affordable, maintainable, and effective. This is an exhibition-cum-competition wherein the participating teams get an opportunity and platform to show their designed Drones, which could help India in tackling its 3 major sustainability issues – National Security, economy and environment.<br>
+                            The aim for this competition is to encourage student creativity and innovation. This competition is perfect for students who want to invent or optimize technologies with the motive to solve sustainability issues of the county. This design competition not only tests the participant’s technical expertise, but also challenges the participants on conception and communication of details in order to share this technology with developing economies as well as the non-engineering community. 
+                            <br>
+                            <br>
+                            Team Size: 2-4;<br>
+                            Number of Rounds: 2;<br> Round 1: Submission of Excutive Summary;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges on campus during Radix
+                        </p>   
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last Date of registration and submission of entries: <br>Round 1: 28 january 2016<br> Round 2: 6 February 2016<br>
+                                Deadline extended: NO!<br>
+                                Declare Results – Shortlist of final 3 teams: 1 february 2016 </p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 15,000/-<br>
+                                1st Runner-Up: Rs. 8,000/-<br>
+                                2nd Runner-Up: Rs. 5,000/-<br>
+                                Other: Opportunity for funding by VC to the winning team; The winning team will get a Live Project opportunity with WitWorks
+
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 2-4 members<br>
+                                The team members have to be from the same college/organisation<br>
+
+                                Details required for executive summary:<br>
+                                1.	The problem being addressed<br>
+                                2.	The initiative/idea<br>
+                                3.	Details of the execution plan<br>
+                                4.	Feasibility and Sustainability of the idea<br>
+                                5.	Magnitude of Impact on the Society<br>
+                                6.	Novelty of the idea<br>
+
+                                Format:<br>
+                                Maximum number of pages allowed: 2 (excluding tables/ graphs/ appendices).<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style.<br>
+                                The participants should furnish the following details about each of the team members on the cover page:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || Schedio – Executive Summary || Team Name || Institute Name<br>
+                                Register your team at (link) and then Email us your executive summary(soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+                                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register15" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register15">
+                        <div class="well">
+
+                            <form name="Schedio">
+                                <p>Team Competition: 2-4 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name*</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+
+                                </div>
+
+                                <div class="col-md-3">
+
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 4 Name</label>
+                                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>    
+            <hr class="divider">
+
+            <div class="row competition">
+                <div class="col-md-12">
+                    <h2>Paper Presentation</h2>
+                    <a class="details" data-toggle="collapse" href="#detail3" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail3">
+                        <p>Topic: Impact of CSR on consumer behavior<br>
+
+                            <br>
+                            <br>
+                            Team Size: 1-2;<br> Number of Rounds: 2;<br>  Round 1: Submission of full paper;<br> Round 2: Final presentation of final 3 shortlisted teams in front of esteemed judges, on campus during Radix
+                        </p>   
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last Date of registration and submission of entries: <br>Round 1: 28 january 2016<br> Round 2: 6 February 2016<br>
+                                Deadline extended: NO!<br>
+                                Declare Results – Shortlist of final 3 teams: 1 february 2016 </p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 15,000/-<br>
+                                1st Runner-Up: Rs. 8,000/-<br>
+                                2nd Runner-Up: Rs. 5,000/-<br>
+                                Other: Top 3 papers will be published in the annual Samarpan magazine
+
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 1-2 members <br>
+                                The team members must be from the same college/organisation <br>
+                                The word count should not exceed 2000 words (excluding tables/ graphs/ appendices). <br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5 <br>
+                                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the paper must be appropriately quoted. Please follow APA reference style. <br>
+                                The paper must be an original piece of work and must not have been submitted earlier elsewhere <br>
+                                Plagiarism will strictly lead to disqualification. <br>
+                                The participants should furnish the following details about each of the team members on the cover page: <br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name <br>
+                                Register your team and then Email us your paper(soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59) <br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || Paper || Team Name (or individual name) <br>
+                                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
+                                <br>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+                    <br><a class="btn btn-primary" role="button" data-toggle="collapse" href="#register1" aria-expanded="false" aria-controls="collapseExample">
+                    Register here
+                    </a>
+                    <div class="collapse" id="register1">
+                        <div class="well">
+
+                            <form name="paper">
+                                <p>Team Competition: 1-2 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name ">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>    
+            <hr class="divider">
+
+            <div class="row competition">    
+                <div class="col-md-12">
+                    <h2>Article Writing Competition
+                    </h2>
+                    <a class="details" data-toggle="collapse" href="#detail67" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail67">
+                        <p>Topic: Strategic CSR for manufacturing industry
+
+                            Language: English, Hindi, Spanish, French<br>
+
+                            <br>
+                            <br>
+                            Team Size: 1-3; <br> Number of Rounds: 1; <br> Round 1: Submission of full Article 
+
+                        </p>     
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>
+
+                                Last Date of Submission: 28 january 2016
+                                <br>
+                                Declare Results: Shortlist of final 3 teams: 1 february 2016
+                                <br>
+                                **PUBLSHED IN MAGAZINE**</p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 15,000/-<br>
+
+                                1st Runner-Up: Rs. 8,000/-<br>
+
+                                2nd Runner-Up: Rs. 5,000/-<br>
+                                Top 3 articles will be published in the annual Samarpan magazine</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 1-2 members<br>
+                                The team members must be from the same college/organisation<br>
+                                The word count should not exceed 2000 words (excluding tables/ graphs/ appendices).<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                References of all the Analyst reports/Datasets/ Research Journals/ Books/Business news etc. used in the article must be appropriately quoted. Please follow APA reference style.<br>
+                                The article must be an original piece of work and must not have been submitted earlier elsewhere<br>
+                                Plagiarism will strictly lead to disqualification.<br>
+                                The participants should furnish the following details about each of the team members on the cover page:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+                                Register your team and then Email us your article (soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || Article || Team Name (or individual name)<br>
+                                In case of any disputes, the decision of the judges and the organizers shall be final and binding.
+                                <br>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register2" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register2">
+                        <div class="well">
+                            <form name="article">
+                                <p> Individual or Team Competition: 1-3 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name ">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.">
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button>
+                                <span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
 
                 </div>
             </div>
+            <hr class="divider">
 
+            <div class="row competition"> 
+                <div class="col-md-12">
+                    <h2>Short Film Making
+                    </h2>
+                    <a class="details" data-toggle="collapse" href="#detail4" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail4">
+                        <p>Theme: Replacing 'viklang' with 'Divyang'.<br>
+                            Viklang: handicapped<br>
+                            Divyang: people with extraordinary capabilities<br>
+                            For ages we have often used the word ‘viklang’, which is a hindi word for the differently abled people. However, most of the times it has been seen that such people have capabilities which even normal people do not have. Thus, the aim for this short film making competition is to celebrate the saga of such ‘Divyang’ personalities.<br>
+
+                            <br>
+                            Team Size: 1-3;<br> Number of Rounds: 1;<br> Round 1: Submission of the full film and a upto - 100 word write-up about the film; 
+                        </p>   
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last date of registration and submission: 28 january 2016
+                                <br>
+                                Deadline extension: NO!
+                                <br>
+                                Declare Results –Best 3 films: 1 february 2016</p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 8,000/-<br>
+
+                                1st Runner-Up: Rs. 5,000/-<br>
+
+                                2nd Runner-Up: Rs. 3,000/-<br>
+                                Other: Top 10 films will be uploaded on Samarpan's youtube channel; The Best Film will be shown during the Excelsior</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Theme: Divyang (Differently Abled people)<br>
+                                Team Size: 1-3 members<br>
+                                The team members have to be from the same institute.<br>
+                                Only one entry is allowed per team.<br>
+                                A participant can be a part of only one team.<br>
+                                Duration of the film: 5-7min long<br>
+                                The participants also have to submit a up to 100 words write-up, explaining the concept / or message of their film.<br>
+
+                                Register your team (link) and then upload your video on YouTube and share the link of the same and write-up (soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+
+
+
+
+                                All entries become the property of IIM Ranchi. Entrants, without any compensation from IIM Ranchi, grant permission to IIM Ranchi to use their names, likenesses and entries for promotional purposes related to IIM Ranchi and its activities. By submitting an entry, entrants (i) represent that their entries constitute original works of creativity that do not violate the property rights of any other person, and (ii) grant IIM Ranchi the right to exhibit, distribute, televise and otherwise use the entries in various media.<br>
+
+
+
+                                Format for write-up:<br>
+                                Maximum number of words allowed: 100<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                The participants should furnish the following details about each of the team members on the cover page:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || Short Film Making || Team Name (or individual name) || Institute Name<br>
+                            </p>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register3" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register3">
+                        <div class="well">
+                            <form name="documentary">
+                                <p>Team Competition: 1-3 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name " >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <hr class="divider">
+
+            <div class="row competition">
+                <div class="col-md-12">
+                    <h2>Battle Bots        </h2>   <a class="details" data-toggle="collapse" href="#detail5" aria-expanded="false" aria-controls="collapseExample">
+                    For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail5">
+                        <p>#BattleGroundOfRobots<br>
+                            BattleBots is the Battle Ground of Robots, wherein the participating teams will enter into a battle with their designed robots. It is one-on-one tournament between students designed robots.<br><br>Team Size: 2-4;<br> Number of Rounds: 2;<br> Round 1: Registration;<br> Round 2: Battle Round during Nirvaadh
+
+
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last Date for Registration: Round 1 (Registration): 1 February 2016<br>
+                                Deadline extended:
+                                <br>          Winner declaration: After the battle on 7 February 2016</p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 5,000/-<br>
+
+                                1st Runner-Up: Rs. 3,000/-<br>
+
+                                2nd Runner-Up: Rs. 2,000/-</p>
+                        </div> 
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 2-4 members<br>
+
+                                The team members have to be from the same or different institution<br>
+
+                                General Rules: 
+                                <br>
+                                The competition will be played on a knock-out basis consisting of 2-3 players at a time . <br>
+
+                                The maximum duration of each round will be 5 minutes. Any team that is not ready at the specified will be disqualified from the competition automatically. 
+                                <br>
+                                1. The machine would be checked for its safety before the competition and would be discarded if found unsafe for other participants and spectators. <br>
+
+                                2. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered 
+                                <br>
+                                3. Violation of any the above rules will lead to disqualification. <br>
+
+                                4. Judges' decision shall be treated as final and binding on all. <br>
+
+                                Criteria for Triumph: <br>
+
+                                1. A robot is declared victorious if its opponent is immobilized or out of the arena. <br>
+
+                                2. A robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. <br>
+
+                                3. If both robots survive the five minutes at that point, the robot with the higher hit points <br>
+
+                                4. The winner moves on, the loser is eliminated from the tournament. <br>
+
+                                Safety Rules: <br>
+
+                                1. Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing. <br>
+
+                                2. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. <br>
+
+                                3 . All weapons must have a safety cover on any sharp edges 
+                                <br>
+                                Specifications:<br> 
+
+                                Problem statement: Design and construct a remote or wired controlled bot capable of fighting a one on one tournament. 
+                                <br>
+                                Dimensions and Fabrications: 
+
+                                <br>• The bot should fit in a box of dimension 75cm x 75 cm x 75 cm (lxbxh) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint. 
+
+                                <br> Weight of Robot: 50kg
+
+                                <br> Mobility: All bots must have easily visible and controlled mobility in order to compete. Methods of  mobility include: <br>
+
+                                • Rolling (wheels, tracks or the whole robot). <br>
+
+                                • Jumping and hopping is not allowed. <br>
+
+                                • Flying (using airfoil, helium balloons, ornithopters, etc.) is not allowed. <br>
+
+                                Robot Control Requirements: <br>
+
+                                • If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event. <br>
+
+                                • If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. <br>
+
+                                • Remote control systems from toys might be used. Remote control systems available in the market may also be used. <br>
+
+                                Battery and Power : <br>
+
+                                • The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). <br>
+
+                                • Working voltages must not exceed 24V DC (mean voltage) at any point of time. <br>
+
+                                • All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. <br>
+
+                                • All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification. <br>
+
+                                • Battery Eliminators are allowed and power source would be available at the venue for the eliminators. 
+                                <br>
+                                Motors: <br>
+
+                                The robot should move as fast as possible around the arena with the help of motors. <br>
+
+                                • DC motors and stepper motors (12V-24V) can be used as per the design of bots</p>
+                        </div> 
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register4" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register4">
+                        <div class="well">
+                            <form name="battlebots">
+                                <p>Team Competition: 2-4 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name*</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 4 Name</label>
+                                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <hr class="divider">
+
+            <div class="row competition">  
+                <div class="col-md-12">
+                    <h2>Be Your Own Boss            </h2>
+                    <a class="details" data-toggle="collapse" href="#detail6" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail6">
+                        <p>Entrepreneurship competition involving inception of a small enterprise and CSR.<br>
+                            Participants will get space to put up their stall (food, games, handicrafts, etc.) at a nominal price of Rs.100 (which will be used for skill development workshops of ‘Sahayak-Vikas’ initiative of Samarpan Club, the CSR club of IIM Ranchi). 2% of the profit generated by participants will be treated as the team’s contribution towards the Accessible India Campaign of Samarpan Club, the current aim for which is to make hearing aids available for the differently abled students of Kshitish School for deaf and dumb. The top 3 business models will be rewarded.<br>
+                            For more details about ‘Sahayak-Vikas’ initiative and Accessible India Campaign, visit: (link)
+                            <br>
+                            <br>
+                            Team Size: 2-4; <br> Number of Rounds: 2; <br> Round 1: Submission of Executive Summary; <br> Round 2: Execution during Nirvaadh; <br> Round 3: Submission of Execution Details
+                        </p>
+                        <h3>Timeline</h3>
+                        <p>Last date for registration: Round 1:  28 january 2016;<br> Round 2: 6-7 February 2016;<br> Round 3: 10 February 2016<br>
+
+                            Result: Final BYOB participants: 1 february 2016; <br>Top 3 models: 15 February 2016</p>
+
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 5,000/-<br>
+
+                                1st Runner-Up: Rs. 3,000/-<br>
+
+                                2nd Runner-Up: Rs. 2,000/-
+                                <br> Other: Exciting Goodies and Gift Hampers!</p>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Team Size: 2-4 members<br>
+                                The team members have to be from the same institute.<br>
+                                Only one entry is allowed per team.<br>
+                                A participant can be a part of more than one team<br>
+                                The participants will have to bear the input cost on their own.<br>
+                                One booth will be given at Rs. 100/- per team.<br>
+                                Facilities at the booth provided by us (included in the registration fee):<br>
+                                Electricity Supply<br>
+                                Lights – 2<br>
+                                Table<br>
+                                Chairs 
+                                <br>
+
+                                The participants will have to arrange all the input material on their own. You can contact the organisers if you wish to know about the availability of certain things in Ranchi. However, the participants must take care of all the arrangements and set up on their own.<br>
+                                A participant can be a part of more than one team.<br>
+                                A space will be provided at IIM Ranchi campus during Nirvaadh from 6-7 February 2016<br>
+                                Register your team (link) and then Email us your executive summary (soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+
+                                Registration fee: Rs. 100/- (Use of this money: installation cost + Sahayak Vikas). <br>
+
+
+                                Details required for executive summary:<br>
+                                A brief description about the product(s)/service(s) you want to offer<br>
+                                Feasibility of the idea<br>
+                                Space required for set-up<br>
+
+                                Format:<br>
+                                Maximum number of pages allowed: 2 (excluding tables/ graphs/ appendices).<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                The participants should furnish the following details about each of the team members on the cover page:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || BYOB – Executive Summary || Team Name || Institute Name<br>
+
+                                Details required for the final B-plan – PowerPoint presentation:<br>
+                                Product description: What is the product/service?<br>
+                                Competitor analysis: Who are the competitors and what are their strengths and weaknesses?<br>
+                                Marketing and sales plan: What is the target market? What are the strategies for distribution, sales, pricing and promotion?<br>
+                                Financials: Input Cost, Revenue Generated, Profit earned<br>
+                                CSR: Total amount of money donated for hearing aids of the differently abled students of Kshitish School for deaf and dumb.<br>
+
+                                Maximum number of slides allowed: 10 (excluding tables/ graphs/ appendices).<br>
+                                Font: Times New Roman, Font size: 12, Line spacing: 1.5<br>
+                                All references used must be appropriately quoted. Please follow APA reference style.<br>
+                                The participants should furnish the following details about each of the team members on the cover slide:<br>
+                                Name, E-Mail address, Mobile number, Name of institute, Team Name<br>
+                                Naming convention for E-mail subject and PDF: “Nirvaadh || BYOB – Full B-Plan || Team Name || Institute Name<br>
+                                Email us full BYOB plan (soft copy) in PDF format at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+                                In case of any disputes, the decision of the judges and the organizers shall be final and binding.<br>
+
+
+
+                            </p>
+                        </div> 
+                    </div>
+
+                    <div class="clearfix"></div>        
+                    <br><a class="btn btn-primary" role="button" data-toggle="collapse" href="#register5" aria-expanded="false" aria-controls="collapseExample">
+                    Register here
+                    </a>
+                    <div class="collapse" id="register5">
+                        <div class="well">
+                            <form name="boss">
+                                <p>Team Competition: 2-4 members</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team Name*</label>
+                                        <input type="text" class="form-control" name="team_name" placeholder="Team Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 1 Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Team member 1 Name (Team Captain)*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 2 Name*</label>
+                                        <input type="text" class="form-control" name="palyer2_name" placeholder="Team member 2 Name *" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer2_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer2_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer2_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer2_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 3 Name</label>
+                                        <input type="text" class="form-control" name="palyer3_name" placeholder="Team member 3 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer3_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer3_email" placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer3_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer3_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Team member 4 Name</label>
+                                        <input type="text" class="form-control" name="palyer4_name"  placeholder="Team member 4 Name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.</label>
+                                        <input type="text" class="form-control" name="palyer4_contact"  placeholder="Contact No." >
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer4_email"  placeholder="Email id" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name</label>
+                                        <input type="text" class="form-control" name="palyer4_college"  placeholder="College/Organisation name" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer4_roll"  placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>  
+            <hr class="divider">
+
+            <div class="row competition"> 
+                <div class="col-md-12">
+                    <h2>Photography Competition
+                    </h2>
+                    <a class="details" data-toggle="collapse" href="#detail20" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail20">
+                        <p> Theme: Disappearing professions and career options for these professionals.<br>
+                            Each participant has to submit 2 photographs – one showing a disappearing profession and the other one showing an alternate career option for that professional.<br>
+                            Published: Samarpan Annual Magazine<br>
+                            Exhibition: During Lunch and Tea-breaks @ Radix (link)
+                            <br>
+                            <br>Individual Entry;  <br>Number of Rounds: 1;  <br>Round 1: Submission of the 2 photographs
+
+                        <div class="col-md-3">
+                            <h3>Timeline</h3>
+                            <p>Last date of registration & submission: Round 1: 28 january 2016
+                                <br>
+                                Deadline extension: NO!
+                                <br>
+                                Declare Results: Best 3 concepts: 1 february 2016</p>
+                        </div>
+                        <div class="col-md-3">
+                            <h3>Prizes</h3>
+                            <p>Winner: Rs. 3,000/-
+                                <br>            1st Runner-Up: Rs. 2,000/-
+                                <br>            2nd Runner-Up: Rs. 1,000/-<br>
+                                Top 10 entries will be displayed in exhibition during lunch and tea breaks during Radix; Best 3 entries will be published in the annual Samarpan magazine</p>
+                        </div>  
+                        <div class="col-md-12">
+                            <h3>Rules</h3>
+                            <p>Theme: Disappearing professions and career options for these professionals.<br>
+                                Thus, each participant has to submit 2 photographs – one showing a disappearing profession and the other one showing an alternate career option for that professional.<br>
+                                Individual entry.<br>
+                                Only one entry is allowed per participant.<br>
+
+                                Register yourself (link) and then Email us your photographs (soft copy) at samarpan@iimranchi.ac.in before january 28, 2016 (23:59:59)<br>
+
+                                Naming convention for E-mail subject: “Nirvaadh || Photography || Individual Name || Institute Name<br>
+                                Naming convention for Photograph 1 – Disappearing profession: “Nirvaadh || Photography – Disappearing Profession || Individual Name || Institute Name<br>
+                                Naming convention for Photograph 1 – Disappearing profession: “Nirvaadh || Photography – Alternate Career Option || Individual Name || Institute Name<br>
+
+                                SUBMISSION OF ENTRIES<br>
+                                2.1 Images of not more than 10 MB in size must be submitted online and the organiser may request for higher resolution images
+                                subsequently. The original images should be at least 3 MB in size as winning images will be printed and exhibited. Shortlisted finalists
+                                will be notified via email to submit their original images within a week for judging.<br>
+                                2.2 Submitted images should be in JPEG format and at least 1,600 pixels wide for a horizontal image or 1,600 pixels tall for a vertical
+                                image.<br>
+                                2.3 Each participant must submit two (2) images.<br>
+                                2.4 Digital manipulation that distorts the reality of the images will not be allowed. Only basic enhancements such as sharpening, contrast
+                                adjustment, or simple cropping will be allowed.<br>
+                                2.5 The organiser reserves the right to reject images with incomplete details required under the photo submission page. The submission
+                                deadline is 28 january, 2016, before 11.59pm.<br>
+                                2.6 All submitted images are non-returnable. The file name for each image should be clearly labelled with the participant’s name, and
+                                where the image was taken. E.g. Rishabh Dhir Ranchi<br>
+                                2.7 Participants are entirely responsible for all entry-related costs.<br>
+                                3. COPYRIGHT/INTELLECTUAL PROPERTY<br>
+                                3.1 Each image submitted must be the original and unpublished work of the participant who must also be its copyright owner.<br>
+                                3.2 The participant shall retain copyright to the image entered for the competition.<br>
+                                3.3 By submitting an image for the competition, the participant will be regarded as having granted the organiser the right to use the
+                                image in print, broadcast and/or electronic media without any fee payment, for the purposes of promoting the competition
+                            </p>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#register6" aria-expanded="false" aria-controls="collapseExample">
+                        Register here
+                    </a>
+                    <div class="collapse" id="register6">
+                        <div class="well">
+                            <form name="photography">
+                                <p>Individual Competition</p>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label for="" class="sr-only"> Name (Team Captain)*</label>
+                                        <input type="text" class="form-control" name="player1" placeholder="Name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">Contact No.*</label>
+                                        <input type="text" class="form-control" name="palyer1_contact" placeholder="Contact No.*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="sr-only" for="exampleInputEmail1">Email address</label>
+                                        <input type="email" class="form-control" name="palyer1_email" placeholder="Email id*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College/Organisation name*</label>
+                                        <input type="text" class="form-control" name="palyer1_college" placeholder="College/Organisation name*" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="" class="sr-only">College / University Roll No</label>
+                                        <input type="text" class="form-control" name="palyer1_roll" placeholder="College / University Roll No:">
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <button type="submit" class="btn btn-default">Submit</button><span class="error-text"></span>
+
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <hr class="divider">
         </div>
-    </section><!--/#-->
+    </section><!--/#commpetition-feed-->
     
-    
-
     <section id="media">
         <h2 id="awards">Special Awards</h2>
         <div class="container">
@@ -1702,7 +2051,11 @@
                         <br>
                         <br>
                         Individual Entry; <br> Number of Rounds: 1; <br> Round 1: attain (maximum likes on Fb + maximum likes on Twitter + maximum likes on Linkedin) for one's selfie with a creative on Samarpan's respective pages
-                        </p>
+                    </p> 
+                    <a class="details" data-toggle="collapse" href="#detail10" aria-expanded="false" aria-controls="collapseExample">
+                    For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail10">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>registration <br>Round 1: 6-12 February 2016<br>
@@ -1731,6 +2084,7 @@
 
                         </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div>
 
                 </div>
@@ -1747,6 +2101,10 @@
                         <br>
                         Maximum likes on the post of your participation
                     </p>
+                     <a class="details" data-toggle="collapse" href="#detail11" aria-expanded="false" aria-controls="collapseExample">
+                    For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail11">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>registration  <br>15 January 2016 - 7 February 2016<br>
@@ -1776,6 +2134,7 @@
                             <br>
                              </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div>
 
                 </div>
@@ -1792,6 +2151,10 @@
                         <br>
                         Maximum likes + shares + ReTweets on Samarpan's post about particular events
                     </p>
+                     <a class="details" data-toggle="collapse" href="#detail12" aria-expanded="false" aria-controls="collapseExample">
+                    For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail12">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>registration <br>20 January 2016 - 7 February 2016<br>
@@ -1815,6 +2178,7 @@
                             Naming convention for E-mail subject: “Nirvaadh || Name of the competition || Individual Name || Institute Name
                         </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div></div>
             </div>    
             <hr class="divider">
@@ -1827,6 +2191,10 @@
 
                 <br>
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail13" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail13">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>
@@ -1848,6 +2216,7 @@
                             The institute with the maximum representation will be awarded with the Nirvaadh Cup - Athena
                         </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div></div>
             </div>    
             <hr class="divider">
@@ -1859,6 +2228,10 @@
 
                 <br>
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail14" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail14">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>
@@ -1878,6 +2251,7 @@
 
                         </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div></div>
             </div>    
             <hr class="divider">
@@ -1889,6 +2263,10 @@
 
                         <br><br>Individual Entry; Number of Rounds: 1;<br> Round 1: The one who participates in the maximum number of events and competitions
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail15" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail15">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>
@@ -1910,6 +2288,7 @@
                             The individual with the maximum points will be awarded with The True Nirvaadhi Award.
                             </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div></div>
             </div>    
             <hr class="divider">
@@ -1921,6 +2300,10 @@
 
                         <br><br>Individual Entry;<br> Online Quiz of 10 questions (about Nirvaadh) each to be held from 5-7 February 2016
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail16" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail16">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>Registration: till one hour before the quiz starts<br>
@@ -1944,6 +2327,7 @@
 
                         </p>
                     </div>
+                    </div>
                     <div class="clearfix"></div></div>
             </div>   
             <hr class="divider">
@@ -1959,6 +2343,10 @@
                         Maximum likes on FB, Twitter and LinkedIn (on the participant’s entry)+ Maximum number of votes from participants at Nirvaadh
                         <br><br>Individual Entry;
                     </p>
+                    <a class="details" data-toggle="collapse" href="#detail17" aria-expanded="false" aria-controls="collapseExample">
+                        For Guidelines and prizes description Cick here
+                    </a>
+                    <div class="collapse" id="detail17">
                     <div class="col-md-3">
                         <h3>Timeline</h3>
                         <p>Registration: 20 January 2016 - 7 February 2016<br>
@@ -1984,6 +2372,7 @@
                             Results to be declared the next morning of the quiz
 
                         </p>
+                    </div>
                     </div>
                     <div class="clearfix"></div></div>
             </div>    

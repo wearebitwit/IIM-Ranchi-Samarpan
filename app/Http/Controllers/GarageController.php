@@ -23,7 +23,7 @@ class GarageController extends Controller
             $data = Event::select(DB::raw('name,count(name) as count'))->groupBy('name')->get();
          		return view('dashboard.home',['data' => $data]);
         }
-        
+
         return view('auth.login');
     }
 
@@ -43,7 +43,7 @@ class GarageController extends Controller
       		return ['error' => false];
       	}else {
       		return ['error' => true];
-      	}	
+      	}
     }
 
     /**
@@ -59,7 +59,7 @@ class GarageController extends Controller
           $keys = array_keys(json_decode($signups[0]['data'], true));
           return view('dashboard.list', ['list' => $signups,'keys' => $keys]);
       }
-      
+
       return view('auth.login');
     }
 
@@ -69,11 +69,30 @@ class GarageController extends Controller
      * @param  \Illuminate\Http\Request $request
      * @return \Illuminate\Http\Response
      */
-    
+
     public function logout(Request $request)
     {
       	$request->session()->flush();
       	return redirect('/');
+    }
+
+    /**
+     * redirects with a set of params
+     *
+     * @param  \Illuminate\Http\Request $request
+     * @return \Illuminate\Http\Response
+     */
+
+    public function redirectWithParams(Request $request, $url, $params)
+    {
+    	$appendParams = [];
+    	foreach ($params as $param) {
+    		if ($request[$params]) {
+    			$appendParams.push($request[$params]);
+    		}
+    	}
+
+    	return redirect($url + '?' + $appendParams.join('&'));
     }
 
 }
